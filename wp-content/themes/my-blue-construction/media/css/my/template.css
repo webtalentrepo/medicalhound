@@ -1,0 +1,98 @@
+.wrapper,
+.content,
+.template.full{
+    margin: 0px auto;
+    *zoom: 1;
+}
+.template.full:before,
+.template.full:after,
+.content:before,
+.content:after{
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+.template.full:after,
+.content:after{
+    clear: both;
+}
+.template.full{
+    width:960px;
+}
+.template.small{
+    display: inline-table;
+    width: 480px;
+    margin-left: 0px;
+}
+.template.small:before,
+.template.small:after{
+    display: inline-table;
+    line-height: 0;
+    content: "";
+}
+.template.medium{
+    display: inline-block;
+    width: 630px;
+}
+.template.large{
+    display: inline-block;
+    width: 720px;
+}
+.template.to-right{
+    margin-right: 0px;
+}
+
+.aside.large,
+aside.large{
+    width: 300px;
+}
+.aside.to-right,
+aside.to-right{
+    margin-left: 30px;
+}
+.aside.to-left,
+aside.to-left{
+    margin-right: 0px;
+}
+.aside.small,
+aside.small{
+    display: inline-block;
+    width: 220px;
+}
+.aside.small.to-right,
+aside.small.to-right{
+    margin: 0px 0px 0px 20px;
+}
+.aside.small.to-left,
+aside.small.to-left{
+    margin: 0px 20px 0px 0px;
+}
+
+.line,
+.list > *{
+    clear: both;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    *zoom: 1;
+}
+.list > *{
+    display:block;
+}
+.end-line{
+    margin-right: 0px !important;
+}
+
+.clear {
+  *zoom: 1;
+}
+.clear:before,
+.clear:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+.clear:after {
+  clear: both;
+}

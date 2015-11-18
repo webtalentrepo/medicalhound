@@ -1,0 +1,26 @@
+html.wp-toolbar {
+	padding:0 5px;
+}
+body.wp-admin {
+	min-width:0;
+}
+#wphead,#wpadminbar,#adminmenuback,#adminmenuwrap,#wpfooter,.add-new-h2,#contextual-help-link-wrap {
+	display:none;
+}
+#wpcontent {
+	margin:0 !important;
+	padding:0;
+}
+
+ul#adminmenu {
+	display:none;
+}
+#screen-meta {
+	display:none;
+}
+#footer {
+	display:none;
+}
+#wpbody-content .describe input[type="text"], #wpbody-content .describe textarea {
+	width:420px;
+}

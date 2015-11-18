@@ -1,0 +1,131 @@
+/* 
+    Document   : comments
+    Created on : 05.07.2013, 09:33:52
+    Author     : myThemes
+*/
+div#comments ol{
+    padding: 30px 0px 15px 0px;
+}
+div#comments ol,
+div#comments ul{
+    list-style: none;
+    margin: 0px;
+}
+
+div#comments ul{
+    background-image: url('../images/left.line.png');
+    background-repeat: repeat-y;
+    padding: 15px 0px 0px 83px;
+}
+
+div#comments ol li.comment{
+    background-image: url('../images/left.line.png');
+    background-repeat: repeat-y;
+    display: block;
+    padding-top: 15px;
+    padding-left: 83px;
+}
+div#comments ol li.comment:first-child{
+    padding-top: 0px;
+}
+div#comments ol li.comment div.comment-box{
+    border:1px solid #e6e6e6;
+    padding: 10px 15px 0px 15px;
+    word-wrap: break-word;
+    -webkit-border-radius: 3px;
+    -webkit-hyphens: auto;
+    -moz-border-radius: 3px;
+    -moz-hyphens: auto;
+    border-radius: 3px;
+    hyphens: auto;
+}
+div#comments ol li.comment div.comment-box header{
+    border-bottom: 1px solid #f7f7f7;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+div#comments ol li.comment div.comment-box header img{
+    position: absolute;
+    margin: -10px 98px 10px -98px;
+}
+div#comments ol li.comment div.comment-box header span.arrow{
+    background-image: url('../images/comment-arrow.png');
+    height: 17px;
+    position: absolute;
+    margin: 10px 28px 0px -28px;
+    width: 13px;
+}
+div#comments ol li.comment div.comment-box header span.comment-meta{
+    float: right;
+}
+div#comments ol li.comment div.comment-box header cite{
+    font-family: "PT Sans Narrow",sans-serif;
+    font-size: 18px;
+    color: #666666;
+}
+div#comments ol li.comment div.comment-box header time{
+    font-family: verdana,sans-serif;
+    font-size: 12px;
+    color: #888888;
+}
+div#comments ol li.comment div.comment-box header span.comment-replay{
+    display: inline-block;
+    width: 18px;
+    height: 16px;
+    margin-left: 20px;
+}
+div#comments ol li.comment div.comment-box header span.comment-replay a{
+    background-image: url("../images/comment-reply.png");
+    background-position: 0px -16px;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    margin: 4px 0px 0px 0px;
+    text-indent: 100px;
+    overflow: hidden;
+}
+div#comments ol li.comment div.comment-box header span.comment-replay a:hover{
+    background-position: 0px -32px;
+}
+
+div#comments ol li.comment div.comment-box p.comment-quote{
+    font-family: "PT Sans Narrow" ,sans-serif;
+    font-size: 16px;
+    color: #999999
+}
+
+div#comments div.pagination{
+    margin-top: 15px;
+}
+
+div#comments div#respond p.comment-notes{
+    font-family: "PT Sans Narrow",sans-serif;
+    color: #666666;
+}
+div#comments div#respond p.comment-form-author input[type="text"]{
+    background-image: url("../images/comment-form.author.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    height: 35px;
+    padding: 3px 3px 3px 55px;
+}
+div#comments div#respond p.comment-form-email input[type="text"]{
+    background-image: url("../images/comment-form.email.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    height: 35px;
+    padding: 3px 3px 3px 55px;
+}
+div#comments div#respond p.comment-form-url input[type="text"]{
+    background-image: url("../images/comment-form.url.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    height: 35px;
+    padding: 3px 3px 3px 55px;
+}
+
+div#comments div#respond p.comment-form-comment textarea{
+    width: 98%;
+}
+

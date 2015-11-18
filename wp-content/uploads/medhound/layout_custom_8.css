@@ -1,0 +1,30 @@
+#wrapper-15 {
+  background-image: url(http://www.wordpress-boston.com/projects/medhound/wp-content/uploads/2015/05/bgsubscribe.png);
+  background-position: center top;
+  background-repeat: no-repeat;
+  border-top-style: none;
+  border-bottom-style: none;
+  padding-top: 120px;
+  padding-bottom: 110px;
+  color: #ffffff;
+}
+
+#col-16-1 h3 {
+  height: 116px;
+  background:#bf0311;
+  line-height: 116px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  font-size: 55px;
+}
+
+#wrapper-15 h3.element-title {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: -2px;
+  margin-bottom: 20px;
+  font-size: 56px;
+  text-align:center;
+}
+

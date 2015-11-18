@@ -1,0 +1,53 @@
+.s3Slider {
+  position: relative;
+  overflow: hidden;
+  width: 900px;
+  height: 400px
+}
+.s3sliderContent {
+  position: absolute;
+  top: 0;
+  margin-left: 0;
+  width: 900px;
+  height: 400px
+}
+.s3sliderImage {
+  float: left;
+  position: relative;
+  display: none
+}
+.s3sliderImage div {
+  position: absolute;
+  font: 15px/18px Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  width: 374px;
+  background-color: #000;
+  filter: alpha(opacity=70);
+  -moz-opacity: .7;
+  -khtml-opacity: .7;
+  opacity: .7;
+  color: #fff;
+  display: none
+}
+.s3sliderImage div.top {
+  top: 0;
+  left: 0
+}
+.s3sliderImage div.bottom {
+  bottom: 0;
+  left: 0
+}
+.s3sliderImage div.left {
+  top: 0;
+  left: 0
+}
+.s3sliderImage div.right {
+  right: 0;
+  bottom: 0
+}
+.s3sliderImageclear {
+  clear: both;
+  float: left;
+  position: relative;
+  display: none
+}

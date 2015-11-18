@@ -1,0 +1,20 @@
+html.wp-toolbar{
+	padding-top:0;
+}
+#filters li {
+	float:left;
+	margin-right:5px;
+}
+#container{
+	float:left;
+	width:100%;
+}
+.codes{
+	float:left;
+	padding:5px;
+	width:64px;
+	height:82px;
+	background:#ccc;
+	margin:5px;
+	text-align:center;
+}

@@ -1,0 +1,47 @@
+.ultimatum-mega-menu-options {
+	margin-top: 10px;
+}
+
+.field-megamenu-status,
+.field-megamenu-width,
+.field-megamenu-columns,
+.field-megamenu-title,
+.field-megamenu-widgetarea,
+.ultimatum-megamenu-upload-thumbnail.button-primary,
+.field-megamenu-icon,
+.field-megamenu-thumbnail,
+.ultimatum-megamenu-thumbnail-image {
+	display: none;
+}
+
+.menu-item-depth-0 .field-megamenu-status,
+.menu-item-depth-0.ultimatum-megamenu .field-megamenu-width,
+.menu-item-depth-0.ultimatum-megamenu .field-megamenu-columns,
+.menu-item-depth-1.ultimatum-megamenu .field-megamenu-title,
+.menu-item-depth-1.ultimatum-megamenu .field-megamenu-widgetarea,
+.menu-item-depth-2.ultimatum-megamenu .field-megamenu-widgetarea,
+.ultimatum-megamenu .field-megamenu-icon,
+.ultimatum-megamenu .field-megamenu-thumbnail {
+	display: block;
+}
+
+.ultimatum-megamenu .ultimatum-megamenu-upload-thumbnail {
+	display: inline-block;
+}
+
+.ultimatum-megamenu-thumbnail-image {
+	max-width: 300px;
+}
+
+.menu-item-depth-0 .ultimatum-megamenu-upload-thumbnail,
+.menu-item-depth-1 .ultimatum-megamenu-upload-thumbnail,
+.menu-item-depth-2 .ultimatum-megamenu-upload-thumbnail {
+	margin-top: 0 !important;
+}
+
+.ultimatum-megamenu-upload-thumbnail {
+	margin-top: 0.6em !important;
+}
+.widget-extender{width:100%;float:left;background:#FCF8E3;padding:0 2px;margin:10px 0;}
+.widget-extender h3{text-align: center;cursor: pointer;}
+.extender-in{display:none;}

@@ -1,0 +1,10 @@
+h1.super-title {
+    height: 116px;
+    background: #bf0311;
+    line-height: 116px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 55px;
+    margin-bottom: 0px;
+}

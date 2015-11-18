@@ -1,0 +1,16 @@
+.ultimatum-css-customizer{
+	display:none;
+	position:fixed;
+	bottom:0;
+	left:0;
+	height:300px;
+	background:#ccc;
+	width:100%;
+	z-index:99999;
+	float:left;
+}
+body.ult-css-gen{
+	padding-bottom:300px;
+	float:left;
+	width:100%;
+}

@@ -1,0 +1,54 @@
+/* 
+    Document    : my_sc_gallery
+    Created on  : 28.03.2013, 12:16:14
+    Author      : myThemes
+    Version     : 0.0.1
+    Description : Css rules for my_sc_gallery.css
+    Author URI  : http://mythem.es
+*/
+
+div.mythemes_sc_gallery{
+    display: block;
+    margin: 30px auto;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_line{
+    margin: 1px 0px 0px 0px;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_line:first-child{
+    margin: 0px;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item{
+    display: inline-block;
+    float:left;
+    margin: 0px 0px 0px 1px;
+    overflow: hidden;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item:first-child{
+    margin: 0px;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item img{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item a{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item div.zoom{
+    position: absolute;
+    width:30px;
+    height: 30px;
+    background-image: url('my_sc_images/zoom.png');
+    display: none;
+}
+
+div.mythemes_sc_gallery div.mythemes_sc_gallery_item:hover div.zoom{
+    position: absolute;
+    width:30px;
+    height: 30px;
+    background-image: url('my_sc_images/zoom.png');
+    display:block;
+}

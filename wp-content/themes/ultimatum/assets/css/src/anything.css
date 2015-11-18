@@ -1,0 +1,239 @@
+
+.anythingBase {
+  max-width: 32766px
+}
+div.anythingSlider .anythingControls ul a.cur,
+div.anythingSlider .anythingControls ul a {
+  color: #000;
+  text-indent: -5000px
+}
+.anythingControls ul a.cur {
+  background-position: 0 20px
+}
+div.anythingSlider .start-stop {
+  display: none
+}
+div.anythingSlider.activeSlider .anythingWindow {
+  border-color: #7c9127
+}
+div.anythingSlider {
+  display: block;
+  margin: 0 auto;
+  overflow: hidden !important;
+  position: relative
+}
+div.anythingSlider .anythingWindow {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%
+}
+.anythingBase {
+  background: transparent;
+  list-style: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0
+}
+.anythingBase .panel {
+  background: transparent;
+  display: block;
+  overflow: hidden;
+  float: left;
+  padding: 0;
+  margin: 0
+}
+div.anythingSlider .arrow {
+  top: 50%;
+  position: absolute;
+  display: block
+}
+div.anythingSlider .arrow a {
+  display: block;
+  height: 30px;
+  margin: -15px 2px 0 2px;
+  width: 30px;
+  text-align: center;
+  outline: 0
+}
+div.anythingSlider .arrow a span {
+  display: block;
+  text-indent: -9999px
+}
+div.anythingSlider .back {
+  left: 5px
+}
+div.anythingSlider .back a {
+  background-position: 0 30px;
+  background-image: url(../images/slideshows/gray_arrows.png)
+}
+div.anythingSlider .back a:hover,
+div.anythingSlider .back a.hover {
+  background-position: 0 0
+}
+div.anythingSlider .back.disabled {
+  display: none
+}
+div.anythingSlider .forward {
+  right: 5px
+}
+div.anythingSlider .forward a {
+  background-position: 30px 30px;
+  background-image: url(../images/slideshows/gray_arrows.png)
+}
+div.anythingSlider .forward a:hover,
+div.anythingSlider .forward a.hover {
+  background-position: 30px 0
+}
+div.anythingSlider .forward.disabled {
+  display: none
+}
+div.anythingSlider .anythingControls {
+  position: absolute;
+  outline: 0;
+  display: none;
+  margin-top: -22px;
+  right: 2px
+}
+div.anythingSlider .anythingControls ul {
+  margin: 0 0 0 0;
+  padding: 0;
+  float: right
+}
+div.anythingSlider .anythingControls ul li {
+  display: block;
+  float: left;
+  margin-left: 2px
+}
+div.anythingSlider .anythingControls ul a {
+  height: 20px;
+  background-image: url(../images/slideshows/gray_pager.png);
+  width: 19px;
+  text-indent: -5000px;
+  display: block
+}
+div.anythingSlider .anythingControls .anythingNavWindow {
+  overflow: hidden;
+  float: left
+}
+div.anythingSlider.rtl .anythingControls ul a {
+  float: right
+}
+div.anythingSlider.rtl .anythingControls ul {
+  float: left
+}
+div.anythingSlider.rtl .anythingWindow {
+  direction: ltr;
+  unicode-bidi: bidi-override
+}
+.anyCaption {
+  background-color: #000;
+  opacity: .6;
+  padding: 20px 0 10px 0;
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+  bottom: 0
+}
+.anyCaption h3,
+.anyCaption p {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #fff;
+  margin-bottom: 10px
+}
+.slidertitle,
+.slidertext {
+  margin-bottom: 10px
+}
+div.anythingSlider.Anygreen .back a {
+  background-image: url(../images/slideshows/green_arrows.png)
+}
+div.anythingSlider.Anygreen .forward a {
+  background-image: url(../images/slideshows/green_arrows.png)
+}
+div.anythingSlider.Anygreen .anythingControls ul a {
+  background-image: url(../images/slideshows/green_pager.png)
+}
+div.anythingSlider.Anyblue .back a {
+  background-image: url(../images/slideshows/blue_arrows.png)
+}
+div.anythingSlider.Anyblue .forward a {
+  background-image: url(../images/slideshows/blue_arrows.png)
+}
+div.anythingSlider.Anyblue .anythingControls ul a {
+  background-image: url(../images/slideshows/blue_pager.png)
+}
+div.anythingSlider.Anyorange .back a {
+  background-image: url(../images/slideshows/orange_arrows.png)
+}
+div.anythingSlider.Anyorange .forward a {
+  background-image: url(../images/slideshows/orange_arrows.png)
+}
+div.anythingSlider.Anyorange .anythingControls ul a {
+  background-image: url(../images/slideshows/orange_pager.png)
+}
+div.anythingSlider.Anypurple .back a {
+  background-image: url(../images/slideshows/purple_arrows.png)
+}
+div.anythingSlider.Anypurple .forward a {
+  background-image: url(../images/slideshows/purple_arrows.png)
+}
+div.anythingSlider.Anypurple .anythingControls ul a {
+  background-image: url(../images/slideshows/purple_pager.png)
+}
+div.anythingSlider.Anyred .back a {
+  background-image: url(../images/slideshows/red_arrows.png)
+}
+div.anythingSlider.Anyred .forward a {
+  background-image: url(../images/slideshows/red_arrows.png)
+}
+div.anythingSlider.Anyred .anythingControls ul a {
+  background-image: url(../images/slideshows/red_pager.png)
+}
+div.anythingSlider.Anyyellow .back a {
+  background-image: url(../images/slideshows/yellow_arrows.png)
+}
+div.anythingSlider.Anyyellow .forward a {
+  background-image: url(../images/slideshows/yellow_arrows.png)
+}
+div.anythingSlider.Anyyellow .anythingControls ul a {
+  background-image: url(../images/slideshows/yellow_pager.png)
+}
+div.anythingSlider .arrow {
+  top: 50% !important
+}
+div.anythingSlider-metallic .arrow {
+  top: 40% !important
+}
+div.anythingSlider-construction .arrow {
+  top: 14% !important
+}
+div.anythingSlider-minimalist-round .arrow,
+div.anythingSlider-minimalist-square .arrow {
+  top: 45% !important
+}
+div.anythingSlider-cs-portfolio .arrow {
+  bottom: -24px !important
+}
+div.anythingSlider .arrow a,
+div.anythingSlider-metallic .arrow a,
+div.anythingSlider-minimalist-square .arrow a,
+div.anythingSlider-construction .arrow a,
+div.anythingSlider-minimalist-round .arrow a {
+  margin: 0 !important
+}
+div.anythingSlider .anythingControls ul.thumbNav a {
+  margin: 0
+}
+div.anythingSlider .anythingControls .start-stop {
+  display: none !important
+}
+div.anythingSlider .anythingControls .anythingNavWindow li {
+  padding: 3px 0 0 0
+}
+div.anythingSlider-cs-portfolio .anythingControls .anythingNavWindow {
+  margin: 18px 0 0 0
+}

@@ -1,0 +1,192 @@
+/* ADMINPANEL */
+@import url("http://fonts.googleapis.com/css?family=Oswald&v1");
+@import url("http://fonts.googleapis.com/css?family=PT+Sans+Narrow&v1");
+
+.admin-page{
+    background:#465b6d !important;
+}
+.admin-menu{
+	height:30px;
+	padding-top:0px;
+}
+.admin-menu ul{
+	height:30px;
+	margin-left:20px;
+}
+.admin-menu li{	
+	height:30px;
+	padding:0px 20px 0px 20px;
+	float:left;
+	display:inline;
+}
+.admin-menu li.current{
+    border-top:1px solid #333;
+    border-left:1px solid #333;
+    border-right:1px solid #333;
+    border-bottom:1px solid #fefefe;
+    background: #fefefe;
+}
+.admin-menu li.current a{
+	color:#465b6d;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+.admin-menu li.current a:hover{
+	color:#465b6d;
+}
+.admin-menu li a{
+	color:#cdcdcd;
+	margin:8px 0px 0px 0px;
+	display:block;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+.admin-menu li:first-child a{
+    text-transform:none;
+}
+.admin-menu li a:hover{
+	color:#fdfdfd;
+}
+.mytheme-admin-header{
+	color:#ededed;
+	padding:15px;
+	font:bold 46px Arial,tahoma,sans-serif;
+    height:59px;
+    border-bottom: 10px solid #ededed;
+    border-top:1px solid #333;
+    background: #fefefe;
+    
+}
+.mytheme-admin-header span{
+	color:#333333;
+	font-size:11px;
+	font-weight:normal;
+	float: right;
+}
+.updated.settings-error.myTheme{
+    margin-left: 0px;
+}
+.mytheme-admin-header img{
+    margin:10px 0px 0px 10px;
+}
+.admin-page{
+	margin-top:17px;
+	background:#ffffff;
+	border:1px solid #efefef;
+    margin-right: 15px;
+}
+.admin-content{
+	padding:20px;
+	background:#fcfcfc;
+}
+.admin-content div.title{
+    color:#455c64;
+    text-transform: uppercase;
+    
+}
+.admin-content label,
+.inside .generic-label label{
+    font:normal 17px "PT Sans Narrow",Arial,sans-serif;
+}
+.admin-content div.title h2 {
+    padding-bottom:25px;
+    border-bottom:1px dashed #cdcdcd;
+    font-family:Oswald !important;
+    font-size:25px;
+}
+
+.admin-content div.title h3 {
+    border-bottom:1px dashed #cdcdcd;
+    font-family:Oswald !important;
+    font-size:18px;
+}
+.admin-content .top_delimiter{
+    border-top:1px dotted #ececec;
+    margin-top:15px;
+}
+.admin-content .bottom_delimiter{
+    border-bottom:1px dotted #ececec;
+    margin-bottom:15px;
+}
+.clear{
+	width:100px;
+	display:block;
+	clear:both;
+}
+
+.not-upper{
+    text-transform: none;
+}
+.my-logo{
+    color:#3f3f3f;
+    font:bold 38px "Trebuchet MS" , Arial,Verdana,sans-serif;
+}
+
+.my-logo span{
+    color:#2a6fa9;
+}    
+.admin-content .my-submit{
+    font-weight: bolder;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    height:30px;
+}
+
+/* COLOR PICKER */
+.pickcolor{
+	border: 1px solid #DFDFDF;
+    margin: 0px 7px 0 3px;
+    padding: 5px 14px;
+    border-radius: 4px;
+}
+
+.colorPickerDiv{
+	margin-left:290px;
+	margin-top:20px;
+}
+.color-panel{
+    display:none;
+    position:absolute;
+    background: #ffffff;
+    border-left:1px solid #cdcdcd;
+    border-right:1px solid #cdcdcd;
+    border-bottom:1px solid #cdcdcd;
+    z-index: 9999;
+    margin: -3px 0px 3px 1px;
+}
+
+/* AUTO COMPLETE STYLE */
+.autocomplete-w1 {
+    position:absolute;
+    top:0px;
+    left:0px;
+    margin:8px 0 0 6px;
+    /* IE6 fix: */
+    _background:none;
+    _margin:0;
+}
+.autocomplete {
+    border:1px solid #999;
+    background:#FFF;
+    cursor:default;
+    text-align:left;
+    max-height:350px;
+    overflow:auto;
+    margin:-6px 6px 6px -6px;
+    /* IE6 specific: */
+    _height:350px; 
+    _margin:0;
+    _overflow-x:hidden;
+}
+.autocomplete .selected {
+    background:#F0F0F0;
+}
+.autocomplete div {
+    padding:2px 5px;
+    white-space:nowrap;
+}
+.autocomplete strong {
+    font-weight:normal;
+    color:#3399FF;
+    color:#ff6600;
+}

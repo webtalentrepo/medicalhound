@@ -1,0 +1,5693 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://forums.ultimatumtheme.com\n"
+"POT-Creation-Date: 2015-08-22 21:30:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <support@ultimatumtheme.com>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: ultimatum/comments.php:22
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/extras.php:75
+msgid ""
+"Post Ordering is not included in Ultimatum anymore you can install it "
+"clicking <a href=\"%2$s\">here</a> | <a href=\"%1$s\">Hide Notice</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/codeinsert.php:8
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:19
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:154
+msgid "Insert Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:26
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:27
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:161
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:162
+msgid "Chart Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:30
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:165
+msgid "Chart Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:34
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:169
+msgid "Chart Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:37
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:172
+msgid "3D Pie Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:38
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:173
+msgid "2D Pie Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:39
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:174
+msgid "Line Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:40
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:175
+msgid "XY Line Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:41
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:176
+msgid "Sparkline Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:42
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:177
+msgid "Meter Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:43
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:178
+msgid "Scatter Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:44
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:179
+msgid "Venn Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:49
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:175
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:184
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:310
+msgid "Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:53
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:182
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1310
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:333
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:188
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:317
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:485
+msgid "Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:61
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:196
+msgid "Labels"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:63
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:198
+msgid "Type your labels comma(,) seperated"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:66
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:201
+msgid "Data"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:68
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:203
+msgid "Type your Data comma (,) seperated"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:71
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:206
+msgid "Colors"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:73
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:208
+msgid "Type colors comma(,) seperated eg. FFFFFF,F0F0F0"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:80
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:113
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:149
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:275
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:330
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:453
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:569
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:672
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:709
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:826
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:936
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:982
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1003
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1153
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1252
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1294
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1358
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1410
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1442
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1480
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:215
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:248
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:284
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:410
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:624
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:731
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:831
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:919
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1042
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1163
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1262
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1304
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1358
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1400
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1432
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1471
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:40
+msgid "Back"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:81
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:114
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:150
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:276
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:331
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:454
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:570
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:673
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:828
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1154
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1253
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1294
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1358
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1410
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1442
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1480
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:216
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:249
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:285
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:411
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:625
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:732
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:832
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:920
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1044
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1164
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1263
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1304
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1358
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1400
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1432
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1471
+msgid "Insert"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:106
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:241
+msgid "Insert Video"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:109
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/ultimatum-meta.php:31
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:244
+#: ultimatum/wonderfoundry/widgets/the-video.php:34
+msgid "Video URL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:110
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:245
+msgid "Video Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:111
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:246
+#: ultimatum/wonderfoundry/widgets/the-video.php:38
+msgid "Video Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:137
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:272
+msgid "Insert Toggle Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:140
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1435
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1473
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:30
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:30
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:275
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1425
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1463
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:257
+#: ultimatum/wonderfoundry/widgets/custom-content.php:472
+#: ultimatum/wonderfoundry/widgets/the-comments.php:93
+#: ultimatum/wonderfoundry/widgets/the-content.php:150
+#: ultimatum/wonderfoundry/widgets/the-content.php:344
+#: ultimatum/wonderfoundry/widgets/the-image.php:44
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:252
+#: ultimatum/wonderfoundry/widgets/the-search.php:47
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:340
+#: ultimatum/wonderfoundry/widgets/the-social.php:89
+#: ultimatum/wonderfoundry/widgets/the-supertitle.php:49
+#: ultimatum/wonderfoundry/widgets/the-video.php:30
+#: ultimatum/wonderfoundry/widgets/ult-wysiwyg.php:55
+msgid "Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:142
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1188
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1292
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1384
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:277
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1198
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1302
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1384
+msgid "Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:144
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:279
+msgid "Type your text here..."
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:171
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:306
+msgid "Insert a Map"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:177
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:312
+msgid "Enter 0 for full width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:187
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:322
+msgid "Address (optional)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:191
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:326
+msgid "Latitude"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:195
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:330
+msgid "Longitude"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:199
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:334
+msgid "Zoom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:210
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:345
+msgid "Marker"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:214
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:349
+msgid "Html"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:218
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:353
+msgid "Popup Marker"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:221
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:356
+msgid "Controls"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:225
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:360
+msgid "panControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:228
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:363
+msgid "zoomControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:232
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:367
+msgid "doubleclickzoom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:235
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:370
+msgid "mapTypeControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:239
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:374
+msgid "scaleControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:242
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:377
+msgid "streetViewControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:246
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:381
+msgid "overviewMapControl"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:249
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:384
+msgid "Scrollwheel"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:253
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:388
+msgid "Map Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:256
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:391
+msgid "Default road map"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:257
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:392
+msgid "Google Earth satellite"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:258
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:393
+msgid "Mixture of normal and satellite"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:259
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:394
+msgid "Mixture of above three maps"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:260
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:395
+msgid "Physical map"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:265
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1385
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:400
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1385
+msgid "Align"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:268
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1373
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1428
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1492
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:403
+#: ultimatum/wonderfoundry/widgets/the-menu.php:182
+#: ultimatum/wonderfoundry/widgets/the-menu.php:220
+#: ultimatum/wonderfoundry/widgets/the-menu.php:236
+#: ultimatum/wonderfoundry/widgets/the-menu.php:246
+#: ultimatum/wonderfoundry/widgets/the-menu.php:318
+#: ultimatum/wonderfoundry/widgets/the-menu.php:333
+#: ultimatum/wonderfoundry/widgets/the-social.php:124
+msgid "Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:269
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1387
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1442
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1508
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:404
+#: ultimatum/wonderfoundry/widgets/the-menu.php:181
+#: ultimatum/wonderfoundry/widgets/the-menu.php:219
+#: ultimatum/wonderfoundry/widgets/the-menu.php:237
+#: ultimatum/wonderfoundry/widgets/the-menu.php:247
+#: ultimatum/wonderfoundry/widgets/the-menu.php:317
+#: ultimatum/wonderfoundry/widgets/the-menu.php:334
+#: ultimatum/wonderfoundry/widgets/the-social.php:125
+msgid "Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:270
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:405
+#: ultimatum/wonderfoundry/widgets/the-menu.php:238
+#: ultimatum/wonderfoundry/widgets/the-social.php:126
+msgid "Center"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:283
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:988
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:419
+msgid "Click on the ShortCode to Create Yours"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:286
+msgid "Columns"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:287
+msgid "Toggle/Accordion/Tabs"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:290
+msgid "Typography"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:291
+msgid "Forms"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:294
+msgid "Google Map"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:295
+msgid "Google Chart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:298
+msgid "Videos"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:377
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:493
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:611
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:671
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:771
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:873
+msgid "Box Styling"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:380
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:496
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:614
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1078
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1336
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1388
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:674
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:774
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:876
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1109
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1346
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1388
+msgid "Text Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:391
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:507
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:625
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1100
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1347
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1399
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:904
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:91
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:139
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:680
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:780
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:883
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1121
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1352
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1394
+msgid "Background Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:402
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:518
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:636
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1533
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:98
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:112
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:213
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:686
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:786
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:889
+msgid "Border Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:413
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:529
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:213
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:692
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:792
+msgid "Border Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:417
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:533
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1515
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1517
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:213
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:696
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:796
+msgid "Border Style"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:428
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:544
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:647
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1122
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1222
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1282
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:707
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:807
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:895
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1133
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1232
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1292
+msgid "Icon"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:443
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:559
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:662
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1146
+msgid "Save as favorite"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:447
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:563
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:666
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:725
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:825
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:913
+msgid "Box Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:686
+msgid "Rounded Corner Box"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:687
+msgid "Bordered Box"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:688
+msgid "Info Box"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:694
+msgid "Saved Box Styles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:733
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:949
+msgid "Type in your content in boxes below and click Insert"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:930
+msgid "Select Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:932
+msgid "Click on any layout you want on Left and click Continue Button below."
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:937
+#: ultimatum/wonderfoundry/widgets/custom-content.php:22
+#: ultimatum/wonderfoundry/widgets/custom-content.php:837
+#: ultimatum/wonderfoundry/widgets/the-content.php:22
+#: ultimatum/wonderfoundry/widgets/the-content.php:546
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:422
+msgid "Continue"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:972
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:4
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:140
+msgid "Tabs"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:975
+msgid "Accordion"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:978
+msgid "Toggle"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:991
+msgid "Boxes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:992
+msgid "Buttons"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:995
+msgid "Dropcap"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:996
+msgid "Lists"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:999
+msgid "Quotes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1000
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1185
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1195
+msgid "Icon Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1057
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1088
+msgid "Button Styling"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1060
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1091
+msgid "Button Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1064
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1095
+msgid "Button Link"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1068
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1099
+msgid "Button Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1089
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1115
+msgid "Text Hover Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1111
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1127
+msgid "Background Hover Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1138
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1238
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1149
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1248
+msgid "Open in Light box?"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1192
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1202
+#: ultimatum/wonderfoundry/widgets/the-image.php:62
+msgid "Link"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1196
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1300
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1206
+msgid "Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1207
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1217
+msgid "HTML Tag"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1278
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1288
+msgid "Insert a Styled List"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1322
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1332
+msgid "Insert a DropCap"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1325
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1335
+msgid "Letter"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1327
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:310
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1337
+msgid "Style"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1381
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1381
+msgid "Insert a Quote"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1386
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1386
+msgid "Cite"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1430
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1420
+msgid "Insert Accordion Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1437
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1475
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:48
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:48
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1427
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1465
+msgid "Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1438
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1476
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1428
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1466
+msgid "Your Content Here"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/tinymce/funcs.php:1468
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1458
+msgid "Insert Tabbed Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:105
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:108
+msgid "%s (Pending)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:121
+msgid "sub item"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:136
+msgid "Move up"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:149
+msgid "Move down"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:151
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:153
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:162
+#: ultimatum/wonderfoundry/widgets/the-social.php:117
+msgid "URL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:169
+msgid "Navigation Label"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:175
+msgid "Title Attribute"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:182
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:187
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:193
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:199
+msgid "Description"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:201
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:212
+msgid "Move"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:213
+msgid "Up one"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:214
+msgid "Down one"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:217
+msgid "To the top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:224
+msgid "Original: %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:237
+msgid "Remove"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:238
+msgid "Cancel"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:266
+msgid "Enable Ultimatum Mega Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:272
+msgid "Full Width Mega Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:277
+msgid "Mega Menu Number of Columns"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:279
+msgid "Auto"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:292
+msgid "Disable Mega Menu Column Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:297
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:299
+#: ultimatum/wonderfoundry/widgets/the-menu.php:348
+#: ultimatum/wonderfoundry/widgets/the-menu.php:363
+msgid "Select Widget Area"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:312
+msgid "Mega Menu Icon (use full font awesome name)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-mega-menu/admin.php:316
+msgid "Set Thumbnail"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:23
+msgid "Add New Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:24
+msgid "Edit Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:25
+msgid "New Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:26
+msgid "View Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:27
+msgid "Search Slideshows"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:28
+msgid "No Slideshow found"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:29
+msgid "No Slideshows found in Trash"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:31
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:143
+msgid "Slideshows"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:33
+msgid "ult_slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-wysiwyg-widget/ult-wysiwyg-widget.php:59
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:196
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:154
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:219
+msgid "Close"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-wysiwyg-widget/ult-wysiwyg-widget.php:70
+msgid "Save and close"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:19
+msgid "Image Title in Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:21
+msgid "If empty it will use the title of Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:24
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:38
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:46
+msgid "Copyright field required"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:27
+msgid "Text to be used in Slideshow "
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:29
+msgid "If empty it will use the Description field"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:34
+msgid "Image Link"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:41
+msgid "Video"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:43
+msgid "link to video (in some sliders)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:49
+msgid "Link Target"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:52
+msgid "Same Window"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/attachment-fields.php:53
+msgid "New Window"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/layout-selector.php:7
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/layout-selector.php:10
+msgid "Layout Selection"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/layout-selector.php:28
+msgid "Select a Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/ultimatum-meta.php:7
+msgid "Post Properties"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/ultimatum-meta.php:19
+msgid "Show Author Info"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ultimatum_core/ultimatum-meta.php:35
+msgid "Used in slideshows as post info "
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:38
+msgid "CSS Class"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:45
+msgid "Widget Template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:47
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:118
+#: ultimatum/wonderfoundry/widgets/the-menu.php:280
+#: ultimatum/wonderfoundry/widgets/the-menu.php:287
+msgid "Default"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:55
+msgid "Hide for Desktop"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:59
+msgid "Hide for Tablets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/widget-extender/widget-extender.php:63
+msgid "Hide for Mobile"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:27
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:58
+msgid "Full Layouts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:31
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:90
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:50
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:51
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:182
+msgid "Layout Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:32
+msgid "Assigned to"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:48
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:108
+msgid "Edit "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:49
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:109
+msgid "Clone"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:54
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:186
+msgid "Set Default"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/ajax/list-layouts.php:86
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:59
+msgid "Partial Layouts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:191
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:63
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:194
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:66
+msgid "Your server has fsockopen and cURL enabled."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:196
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:68
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:198
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:70
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:202
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:74
+msgid ""
+"Your server does not have fsockopen or cURL enabled - Ultimatum and other "
+"scripts which communicate with other servers will not work. Contact your "
+"hosting provider."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:209
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:81
+msgid "WP Remote Post"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:221
+msgid "wp_remote_post() was successful - Ultimatum Auto Update is working."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:224
+msgid ""
+"wp_remote_post() failed. Ultimatum Auto Updates won't work with your "
+"server. Contact your hosting provider. Error:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:228
+msgid ""
+"wp_remote_post() failed. Ultimatum Auto Updates may not work with your "
+"server."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:255
+msgid "Themes Folder"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:259
+msgid "Uploads Folder"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:263
+msgid "Font-Face Folder"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:268
+msgid "Cufon Folder"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:281
+msgid "Writable"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:297
+msgid ""
+"is not writable Ultimatum would not work fine please correct your file "
+"permissions."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:299
+msgid "<p>DO YOU HAVE ULTIMATUM LIBRARY INSTALLED?</p>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/init.php:334
+msgid ""
+"%s - We recommend setting memory to at least 64MB. See: <a "
+"href=\"%s\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:36
+msgid "Welcome to Ultimatum"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:38
+msgid "Ultimatum Installer"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:40
+msgid "Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:41
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:116
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:146
+msgid "Templates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:42
+msgid "Layout Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:43
+msgid "CSS Editor"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:44
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:29
+msgid "Custom Post Types"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:45
+msgid "Library"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:46
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:125
+msgid "System Report"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/menus.php:47
+msgid "Fonts Library"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/devfuncs.php:9
+msgid "Mobile Icons"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:36
+msgid "Mobile APP Assigner"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:47
+msgid "Settings Saved"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:50
+msgid "Mobile Web Apps per Device"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:64
+msgid "Select"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:77
+msgid "Do NOT force Mobile apps"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/mobile-assigner.php:80
+msgid "FORCE Mobile apps"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/pro/template_export.php:22
+#: ultimatum/wonderfoundry/admin/help/templates.php:25
+msgid "Export Child Theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:121
+msgid "Dashboard"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:122
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:210
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/plugins.php:43
+msgid "Plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:123
+msgid "Themes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:124
+msgid "Updates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/toolset.php:157
+msgid "The API server re-check returned failure please try again later"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/upgrade.php:157
+msgid "Congratulations! You are now rocking Ultimatum %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/upgrade.php:167
+msgid "Click here to complete the upgrade"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/functions/upgrade.php:181
+msgid ""
+"Ultimatum %s is available. <a href=\"%s\" %s>Check out what's new</a> or <a "
+"href=\"%s\" %s>update now.</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:9
+msgid "About Layouts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:11
+msgid ""
+"Ultimatum uses two types of layouts, Full layouts and partial layouts. Full "
+"layouts are the layouts you call directly to your front end while partial "
+"layouts are the parts you may want to re use in many layouts like "
+"header,footer etc. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:14
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:115
+msgid "Assign Layouts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:16
+msgid ""
+"Ultimatum may assign layouts to post types categories and some core pages "
+"of Wordpress."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:20
+msgid "Creating a Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:22
+msgid ""
+"Ultimatum uses rows to create structural layout of your page. So you will "
+"want to insert at least a row before you can drag and drop "
+"Elemnts(Widgets). If you are creating/editing a full layout you may also "
+"drag and drop partial layouts in your layout."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:23
+msgid ""
+"The CONTENT is called with Wordpress Default Loop. Do not use Include Page "
+"for calling your content. That widget is supposed to be used as a WYSIWYG "
+"widget."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:27
+#: ultimatum/wonderfoundry/admin/help/library.php:26
+#: ultimatum/wonderfoundry/admin/help/settings.php:24
+#: ultimatum/wonderfoundry/admin/help/templates.php:40
+msgid "For more information:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:28
+#: ultimatum/wonderfoundry/admin/help/library.php:27
+#: ultimatum/wonderfoundry/admin/help/settings.php:25
+#: ultimatum/wonderfoundry/admin/help/templates.php:41
+msgid ""
+"<a href=\"http://ultimatumtheme.com\" target=\"_blank\">Ultimatum Theme "
+"Home</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:29
+#: ultimatum/wonderfoundry/admin/help/library.php:28
+#: ultimatum/wonderfoundry/admin/help/settings.php:26
+#: ultimatum/wonderfoundry/admin/help/templates.php:42
+msgid ""
+"<a href=\"http://docs.ultimatumtheme.com\" target=\"_blank\">Ultimatum "
+"Documentation</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:30
+#: ultimatum/wonderfoundry/admin/help/library.php:29
+#: ultimatum/wonderfoundry/admin/help/settings.php:27
+#: ultimatum/wonderfoundry/admin/help/templates.php:43
+msgid ""
+"<a href=\"http://forums.ultimatumtheme.com\" target=\"_blank\">Ultimatum "
+"Forums</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/layouts.php:31
+#: ultimatum/wonderfoundry/admin/help/library.php:30
+#: ultimatum/wonderfoundry/admin/help/settings.php:28
+#: ultimatum/wonderfoundry/admin/help/templates.php:44
+msgid ""
+"<a href=\"http://marketplace.ultimatumtheme.com\" "
+"target=\"_blank\">Ultimatum Marketplace</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:9
+msgid "About Library"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:11
+msgid ""
+"Ultimatum Library is the collection of your fonts, icons and favorite "
+"shortcodes."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:14
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:156
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:254
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:289
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:534
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/icons.php:16
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/index.php:42
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/sc.php:15
+msgid "Fonts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:16
+msgid ""
+"With this template we intended to make sure that our clients can use "
+"variety of fonts.However making the user select fonts via dropdown with "
+"hundreds of options is not good in terms of usability. This is why we "
+"developed this smart font library.<br />\n"
+" \t\t\t\t\t\tWith font library you can add new fonts to the theme by simply "
+"uploading them via boxes below. Also until a font is enabled it wont show "
+"in the dropdown selection boxes. So that the user would know which fonts "
+"they have enabled and will select among them.In this screen you can see "
+"your enabled fonts as well.<br />\n"
+" \t\t\t\t\t\tAfter enabling fonts for selection you do not need to do any "
+"extra settings or type any code. If a font from a library is called in "
+"layout it will automatically load itself."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:21
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:164
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:262
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:297
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-fonts/index.php:542
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/icons.php:19
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/index.php:45
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/sc.php:18
+msgid "Icons"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/library.php:23
+msgid "You can manage the Icons you might use with your shortcodes in this panel."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:9
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:63
+msgid "General Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:11
+msgid ""
+"In this pane you can set the general imagery of your site such as logo "
+"favicon and image placeholder."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:14
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:64
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:16
+msgid ""
+"Ultimatum can create unlimited sidebars and use them in layouts. In this "
+"pane you can add your sidebars."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:19
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:69
+msgid "Advanced Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/settings.php:21
+msgid ""
+"Ultimatum supplies you many options so that your site suits your needs. You "
+"can find all the advanced options underneath this tab. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:9
+msgid "About Templates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:11
+msgid ""
+"Ultimatum templates are basically categories of layouts with same "
+"structural options like grid framework grid with etc."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:14
+msgid "Create a Template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:16
+msgid ""
+"You can create as many templates as you want. Each template will have their "
+"own grid and css."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:20
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:33
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:148
+msgid "Import a Template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:22
+msgid ""
+"You can Import a pre created and exported template into your theme with "
+"simply uploading the zip file created by Ultimatum."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:27
+msgid ""
+"If you are working on a child theme you can export is as an installable "
+"theme with its templates and layouts by simply using this button.(PRO "
+"license or better required)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:30
+msgid "Mobile App Assigner"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:32
+msgid ""
+"Ultimatum can behave different per device with usage of mobile web "
+"applications. You can set your created mobile web apps to any device you "
+"want in this screen.(PRO license or better required)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:35
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:193
+msgid "Extra Row Styles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/help/templates.php:37
+msgid ""
+"Ultimatum comes with predefined row styles however in somecases they might "
+"not be enough. You can create your own row layouts in this screen. Row "
+"layouts are per template and are not interusable between templates."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:158
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1093
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1094
+msgid "Font Family"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:255
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1299
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:401
+msgid "Font Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:268
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1309
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:402
+msgid "Line Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:280
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:400
+msgid "Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:292
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1193
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1194
+msgid "Font Weight"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:295
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:314
+#: ultimatum/wonderfoundry/widgets/the-menu.php:189
+#: ultimatum/wonderfoundry/widgets/the-menu.php:227
+msgid "Normal"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:295
+msgid "Bold"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:314
+msgid "Italic"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:329
+msgid "Decoration"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:332
+msgid "Underline"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:332
+msgid "Overline"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:332
+msgid "Line-Through"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:362
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:174
+msgid "Save Changes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:917
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:918
+msgid "Background Repeat"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:936
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:937
+msgid "Background Clip"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:955
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:956
+msgid "Background Origin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:973
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:974
+msgid "Background Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:991
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:992
+msgid "Background Attachment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1014
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1015
+msgid "Background Position"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1025
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:151
+msgid "Background Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1026
+msgid "Enter full URL of the image or use Insert Image button"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1171
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1172
+msgid "Text Align"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1214
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1215
+msgid "Font Style"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1234
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1235
+msgid "Text Transform"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1257
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1258
+msgid "Font Variant"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1276
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1277
+msgid "Text Decoration"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1318
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1319
+msgid "Word Spacing"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1327
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1328
+msgid "Letter Spacing"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1334
+msgid "Font Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1365
+msgid "Margin Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1366
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1421
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1485
+msgid "Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1372
+msgid "Margin Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1379
+msgid "Margin Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1380
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1435
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1501
+msgid "Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1386
+msgid "Margin Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1420
+msgid "Padding Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1427
+msgid "Padding Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1434
+msgid "Padding Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1441
+msgid "Padding Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1484
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:215
+msgid "Border Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1491
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:268
+msgid "Border Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1500
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:241
+msgid "Border Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/class.options.php:1507
+msgid "Border Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/metaboxes/gallery.php:85
+#: ultimatum/wonderfoundry/admin/helpers/metaboxes/gallery.php:95
+msgid "Gallery"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:4
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:142
+msgid "Accordions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:8
+msgid "Inactive Title Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:15
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:15
+msgid "Active Title Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/accord.php:22
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:29
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:22
+msgid "Content Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:4
+msgid "BreadCrumbs <a name=\"bcumb\"></a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:12
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:60
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:46
+msgid "General"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:27
+msgid "Title (You are here)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:38
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:74
+msgid "Current"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:53
+msgid "Page Navigation <a name=\"navi\"></a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:87
+msgid "Background and Border Colors"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/bcum.php:105
+msgid "Current Background Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:4
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:119
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:262
+#: ultimatum/wonderfoundry/widgets/custom-content.php:805
+msgid "Comments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:9
+msgid "Comments Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:27
+msgid "Comment Author"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:45
+msgid "Comment Time"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:63
+msgid "Comment Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:81
+msgid "Reply, Cancel Reply Link"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:99
+msgid "Comment Form Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/comment.php:117
+msgid "Comment Form Labels"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:4
+msgid "Horizontal Dropdown Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:8
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:8
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:8
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:8
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:9
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:8
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:304
+msgid "Margins "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:15
+msgid "Sub Item Width "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:22
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:16
+msgid "Top Level Items Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:29
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:22
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:23
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:23
+msgid "Top Level Hover and sub items background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:36
+msgid "Top Level Active Item background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:43
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:37
+msgid "Sub Levels Hover background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:51
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:44
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:73
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:45
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:45
+msgid "Top level Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:69
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:62
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:63
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:63
+msgid "Top level Links - Active"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:87
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:80
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:81
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:81
+msgid "Top level Links - :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:105
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:98
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:99
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:99
+msgid "Second level Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hdm.php:123
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:116
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:117
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:117
+msgid "Second level Links - :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:4
+#: ultimatum/wonderfoundry/widgets/the-menu.php:138
+msgid "Horizontal Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:15
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:9
+msgid "Item Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:22
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:16
+msgid "Active Item Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:29
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:23
+msgid "Hover Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:36
+msgid "Seperator Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:44
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:31
+msgid "Item Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:62
+msgid "Active Item Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hm.php:80
+msgid "Item :hover Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:4
+#: ultimatum/wonderfoundry/widgets/the-menu.php:136
+msgid "Horizontal Mega Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:15
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:16
+msgid "Top Level Active background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:29
+msgid "Mega Menu Title Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:36
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:37
+msgid "Second Level and Third Level Hover Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:134
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:135
+msgid "Mega Menu Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:152
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:153
+msgid "Mega Menu Titles :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:170
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:171
+msgid "Third level links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/hmm.php:188
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:189
+msgid "Third level links :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:4
+msgid "Side Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:8
+msgid "Side Menu Open Button Color "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:15
+msgid "Side Menu Open Button size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:25
+msgid "Mobile Dropdown Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:29
+msgid "Mobile menu Button Background Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:35
+msgid "Mobile menu Button Text Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:41
+msgid "Mobile menu Item text Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:47
+msgid "Mobile menu Item text color :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/mdm.php:53
+msgid "Mobile menu Item Background color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:4
+msgid "Post Elements"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:8
+msgid "Archive Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:14
+msgid "Archive Title Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:25
+msgid "Archive Title Border"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:32
+msgid "Archive Title Margins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:39
+msgid "Archive Title Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:44
+msgid "Archive Title Font"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:65
+msgid "Post Container (All Posts)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:71
+msgid "Post Container Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:80
+msgid "Post Container Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:89
+msgid "Post Container Border"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:97
+msgid "Post"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:103
+msgid "Post Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:112
+msgid "Post Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:121
+msgid "Post Margin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:132
+msgid "Post Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:138
+msgid "Post Title Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:149
+msgid "Post Title Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:155
+msgid "Post Title Border"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:161
+msgid "Post Title Font"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:181
+msgid "Post Meta"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:187
+msgid "Post Meta Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:198
+msgid "Post Meta Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:205
+msgid "Post Meta Margin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:212
+msgid "Post Meta Border"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:218
+msgid "Post Meta Font"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:238
+msgid "Post Taxonomy & Read More"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:243
+msgid "Post Taxonomy Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:261
+msgid "Post Taxonomy Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/post.php:279
+msgid "Read More Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/slides.php:4
+msgid "Slide Show Elements"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/slides.php:9
+msgid "Titles for Anything Slider and SlideDeck"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/slides.php:27
+msgid "Content for Anything Slider and SlideDeck"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/slides.php:45
+msgid "Caption Titles for Anything Slider and S3 Slider"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/slides.php:63
+msgid "Caption Content for Anything Slider and S3 Slider"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:8
+msgid "Inactive Tab Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:15
+msgid "Hover Tab Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:22
+msgid "Active Tab Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:37
+msgid "Default Tab Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:55
+msgid "Active Tab Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:73
+msgid "Tab Title :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/tabs.php:91
+msgid "Tab Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:4
+msgid "Toggles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/togglers.php:8
+msgid "Title Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:4
+msgid "Ultimatum Menu "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:16
+msgid "Menu Height "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:23
+msgid "Padding Between Items "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:30
+msgid "Menu Dropdown Width "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:37
+msgid "Top Level Link Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:44
+msgid "Top Level Link Hover & Active Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:51
+msgid "Second Level Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:58
+msgid "Second Level Hover & Active Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:65
+msgid "Seperator Color "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:91
+msgid "Top level Links - Active & :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:109
+msgid "Mega Menu Column and Widget Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:127
+msgid "Sub level Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/ultimatum-menu.php:145
+msgid "Sub level Links - Active & :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:5
+msgid "Vertical Dropdown Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vdm.php:30
+msgid "Top Level Active items background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:5
+#: ultimatum/wonderfoundry/widgets/the-menu.php:141
+msgid "Vertical Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:49
+msgid "Item Text - Active"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vm.php:67
+msgid "Item Text - :hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:4
+#: ultimatum/wonderfoundry/widgets/the-menu.php:139
+msgid "Vertical Mega Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/vmm.php:30
+msgid "Second Level Title Background "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:4
+msgid "Widgets and Specific Widgets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:10
+msgid "Widget Title Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:21
+msgid "Widget Title Border"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:28
+msgid "Widget Title Margin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:34
+msgid "Widget Title Typography"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css/widget.php:52
+msgid "Super Title Typography"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:7
+msgid "Site Logo"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:25
+msgid "Tag Line"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:50
+msgid "Basic HTML"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:54
+msgid "Body Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:65
+msgid "Header Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:76
+msgid "Footer Background"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/css-options.php:300
+msgid "LOGO"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/cufon-fonts.php:21
+#: ultimatum/wonderfoundry/admin/helpers/options/fontface-fonts.php:4
+msgid "Fonts located in \"%s\""
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/dev-options.php:4
+msgid "Beta Versions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/dev-options.php:8
+msgid "Apply Beta Updates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/dev-options.php:9
+msgid ""
+"If this option is set ON you will be notified about beta versions in "
+"dashboard and update will gather latest beta version. Do not use this on "
+"any production sites."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:5
+msgid "Ultimatum Extra Tools"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:9
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:160
+msgid "Ultimatum Slideshows"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:11
+msgid ""
+"The most often used sliders like nivo, flex and supersized are packed with "
+"Ultimatum you may enable / disable them here. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:16
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:172
+msgid "Ultimatum Shortcodes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:18
+msgid ""
+"Ultimatum comes with a handful of shortcodes. They are designed not to "
+"conflict with other shortcdes you may have but still you can disable them. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:23
+msgid "Ultimatum Shortcodes Legacy Mode"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:25
+msgid "If you were using 2.3 shortcodes this will make them work again."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:30
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:75
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:184
+msgid "Post Galleries"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:33
+msgid ""
+"Adds a Gallery metabox to your posts so that you can have nice sliders in "
+"layouts. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:40
+msgid "Layout Editor Options"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:44
+msgid "Elements at bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/extra-options.php:47
+msgid ""
+"If set ON the elements part in Layout Editor will be shown below layout "
+"body. Otherwise it will be on right hand side. "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/google-fonts.php:4
+msgid "Google Fonts In Library"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:4
+msgid "Touch Icons"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:8
+msgid "iPhone (57px*57px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:9
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:44
+msgid ""
+"Paste the full URL (include <code>http://</code>) of your App Icon here or "
+"you can insert the image through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:15
+msgid "iPhone (Retina) (114px*114px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:16
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:51
+msgid ""
+"Paste the full URL (include <code>http://</code>) of your App Launch Image "
+"here or you can insert the image through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:22
+msgid "iPad (72px*72px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:23
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:30
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:58
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:65
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:72
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:79
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:86
+msgid ""
+"Paste the full URL (include <code>http://</code>) of your No Image Image "
+"here or you can insert the image through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:29
+msgid "iPad (Retina) (144px*144px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:39
+msgid "Startup Images"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:43
+msgid "iPhone (320px*460px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:50
+msgid "iPhone (Retina) (640px*920px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:57
+msgid "iPhone 5 (640px*1096px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:64
+msgid "iPad Portrait (768px*1004px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:71
+msgid "iPad Landscape (748px*1024px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:78
+msgid "iPad (Retina) Portrait (1536px*2008px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/mobapp-options.php:85
+msgid "iPad (Retina) Landscape (1496px*2048px)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/pgallery-options.php:4
+msgid "Post Types to enable Post Galleries"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:4
+msgid "Header and Footer Scripts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:8
+msgid "Header Scripts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:16
+msgid "Footer Scripts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:27
+msgid "Do not use Combined and minimized JS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:31
+msgid "Uncombine JS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:32
+msgid ""
+"The javascript library Ultimatum uses is served as a combined minified file "
+"to increase page load speed "
+"(theme.global.tbs3.min.js/theme.global.tbs2.min.js) If you enable this "
+"option each js file will be enqueued seperately. Good for develpers."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:41
+msgid "CDN Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:45
+msgid "JS and CSS from CDN"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:46
+msgid ""
+"Some of the files we use are available via public CDNs if you want to use "
+"them enable this section. May or may not increase performance."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:70
+msgid "Twitter OAUTH"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:74
+msgid "Consumer key"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:82
+msgid "Consumer Secret"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:90
+msgid "Access Token"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:98
+msgid "Access Token Secret"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:110
+msgid "Pretty Photo"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:114
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:515
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:623
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:737
+msgid "Theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:119
+msgid "Dark Rounded"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:120
+msgid "Dark Square"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:121
+msgid "Facebook"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:122
+msgid "Light Rounded"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:123
+msgid "Light Square"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:132
+msgid "Google Web Fonts Char Set"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:136
+msgid "Charsets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:137
+msgid ""
+"Google by default sends out Latin Charset you can add more charsets however "
+"tehy will only work if they are existing in google libraries"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:140
+msgid "Latin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:141
+msgid "Latin Extended"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:142
+msgid "Cyrillic"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:143
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:144
+msgid "Greek"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/script-options.php:145
+msgid "Greek Extended"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/sidebar-options.php:4
+msgid "Sidebars"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/sidebar-options.php:8
+msgid "Sidebar Names"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/sidebar-options.php:9
+msgid "Type in names of sidebars you need with using <code>;</code> as seperator"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:20
+msgid "Headings for Multi Post Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:24
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:116
+msgid "Tag For Logo (site title)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:28
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:45
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:62
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:79
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:96
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:120
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:137
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:154
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:171
+msgid "&lt;h1&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:29
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:46
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:63
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:80
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:97
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:121
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:138
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:155
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:172
+msgid "&lt;h2&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:30
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:47
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:64
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:81
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:98
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:122
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:139
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:156
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:173
+msgid "&lt;h3&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:31
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:48
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:65
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:82
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:99
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:123
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:140
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:157
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:174
+msgid "&lt;h4&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:32
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:49
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:66
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:83
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:100
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:124
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:141
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:158
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:175
+msgid "&lt;h5&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:33
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:50
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:67
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:84
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:101
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:125
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:142
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:159
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:176
+msgid "&lt;h6&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:34
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:51
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:68
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:85
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:102
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:126
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:143
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:160
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:177
+msgid "&lt;div&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:35
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:52
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:69
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:86
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:103
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:127
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:144
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:161
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:178
+msgid "&lt;span&gt;"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:41
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:133
+msgid "Tag For Slogan (tag line)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:58
+msgid "Tag For Archive Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:75
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:150
+msgid "Tag For Articles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:92
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:167
+msgid "Tag For Widget Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/tag-options.php:112
+msgid "Headings for Single Post / Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:6
+msgid ""
+"Default Logo <small><i>(In layouts generator this will be set as default if "
+"no options are selected.)</i></small>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:10
+msgid "Title as Logo"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:11
+msgid ""
+"If this option is on, the \"Site Title\" you defined in <a "
+"href=\"%s/wp-admin/options-general.php\">Settings->General</a> will be used "
+"as logo\n"
+"image."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:19
+msgid "Image Logo"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:20
+msgid ""
+"Paste the full URL (include <code>http://</code>) of your custom logo here "
+"or you can insert the image through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:26
+msgid "Display Site Description <small><i>(tag line)</i></small>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:27
+msgid ""
+"If you set logo to be text, you can choose whether to display <a "
+"href=\"%s/wp-admin/options-general.php\">Tagline</a> after Site Title."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:37
+msgid "Favicon"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:41
+msgid "Favorite Icon"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:42
+msgid ""
+"Paste the full URL (include <code>http://</code>) of your favicon here or "
+"you can insert the image through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:51
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:55
+msgid "Image Placeholder"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/helpers/options/theme-defaults.php:56
+msgid ""
+"Used for posts with no featured image set.<br/>Paste the full URL (include "
+"<code>http://</code>) of your favicon here or you can insert the image "
+"through the button."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:16
+msgid "Welcome to Ultimatum %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:18
+msgid "Ultimatum %s is only the beginning for you to get the most of WordPress."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:24
+msgid "What&#8217;s New"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:29
+msgid "Register with Ultimatum Toolset!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:31
+msgid "Register your copy and get Updates, Themes and Plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:40
+msgid ""
+"Ultimatum Toolset is your dashboard to extend the abilities of Ultimatum "
+"with its in-stock plugins and more.</p><p><strong><u>If you have been using "
+"the Premium Plugins included within Ultimatum you'll need to visit "
+"Ultimatum Toolset and install those plugins</u></strong>. If for some "
+"reason the Toolset Solution is not working, you can always download and "
+"install them manually via our <a "
+"href=\"//download.ultimatumtheme.com\">Downloads Archive</a>.</p><p>PS: "
+"Toolset for multisites can be found in NetWork admin. (you need to have "
+"Ultimatum enabled as main sites theme)</p>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:47
+msgid "Finally Bootstrap 3"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:48
+msgid ""
+"After long wait its here! Twitter Bootstrap3 and all ist Bootswatches are "
+"there for you to use."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:56
+msgid "Mega? Mobile? No problem ;)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:57
+msgid ""
+"3 new menu scripts included in core. Ultimatum Menu, Side menu and mobile "
+"Dropdown menu."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:58
+msgid "Your websites will be he best navigated sites!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:66
+msgid "Let's Socialize!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:67
+msgid ""
+"Another long wait is over. Ultimatum Connect for BuddyPress is now "
+"available."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:68
+msgid "Fully responsive and great looking communities are clicks away!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:77
+msgid "Under the Hood"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:81
+msgid "Improved Speed"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:82
+msgid ""
+"Ultimatum is now faster as it minimizes all CSS also has globals css and js "
+"which we combined and minified all js and css used globally."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:85
+msgid "Many bugs were killed!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:86
+msgid "Our team with help of powerful spray killed most of the bugs in system"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:102
+msgid "Welcome to Ultimatum %s Installer"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:104
+msgid "You are just a few steps behind using Ultimatum."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-core/index.php:107
+msgid "Submit"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:113
+msgid "Basics"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:116
+msgid "Core WP"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:118
+msgid "Posts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:120
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:312
+msgid "Widgets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:124
+msgid "Menus"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:126
+msgid "Horizontal"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:127
+msgid "Horizontal Mega"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:128
+msgid "Horizontal Dropdown"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:129
+msgid "Vertical"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:130
+msgid "Vertical Mega"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:131
+msgid "Vertical Dropdown"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:132
+msgid "Ultimatum Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:133
+msgid "Mobile Menus"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:137
+msgid "Extras"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:139
+msgid "Breadcrumbs and Pagination"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:141
+msgid "Togglers"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:148
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:160
+msgid "Custom CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:150
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:151
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:159
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:162
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:163
+msgid "Type your Custom CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:150
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:159
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:162
+msgid "Template wide Custom CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:152
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:164
+msgid "Layout Specific Custom CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:156
+msgid "Back To Layout Editor"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-css/index.php:168
+msgid "Advanced"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:61
+msgid "Theme Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:66
+msgid "SEO Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:71
+msgid "Extras Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:72
+msgid "Script & API Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:73
+msgid "Tag Settings"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-defaults/index.php:96
+msgid "Connect"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:39
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:37
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:94
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/custom-css.php:65
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:199
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:319
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:410
+msgid "Save"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:45
+msgid "Assign Layout to Post/Page Types"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:52
+#: ultimatum/wonderfoundry/widgets/the-content.php:158
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:348
+msgid "Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:55
+msgid "If no layouts for the requested page/post this layout will be shown for it"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:70
+msgid "Post/Page Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:75
+#: ultimatum/wonderfoundry/widgets/menus/tbs.php:56
+#: ultimatum/wonderfoundry/widgets/menus/tbs.php:109
+msgid "Search"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:77
+#: ultimatum/wonderfoundry/widgets/custom-content.php:545
+#: ultimatum/wonderfoundry/widgets/custom-content.php:576
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:305
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:322
+msgid "author"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:78
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:73
+msgid "Home"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/assigner.php:79
+msgid "Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:43
+msgid "Create a new Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:55
+msgid "Layout Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:58
+msgid "are the main layouts that you can assign to post types and posts or pages."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:59
+msgid ""
+"are the layouts that you might want to use more then once. You can include "
+"them before or after the main section of a full layout."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:61
+msgid "Full"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/create.php:62
+msgid "Part"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:133
+msgid "Background Color and Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:143
+msgid ""
+"Select your desired backround color for the body delete the text box "
+"content for transparent."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:154
+msgid ""
+"Paste the full URL (include <code>http://</code>) of image here or you can "
+"insert the image through the button. To remove image just delete the text "
+"in field."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:175
+msgid "Image Location"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:179
+msgid "top left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:180
+msgid "top right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:181
+msgid "top center"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:182
+msgid "bottom left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:183
+msgid "bottom right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:184
+msgid "bottom center"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:190
+msgid "Image Repeat"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:194
+msgid "repeat"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:195
+msgid "repeat horizontal"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:196
+msgid "repeat vertical"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:197
+msgid "No repeat"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:208
+msgid "Borders"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:218
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:244
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:271
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:297
+msgid "select"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:294
+msgid "Border right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:327
+msgid "Height / Margin / Padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:340
+msgid "Margin"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:343
+msgid "margin top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:347
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:384
+msgid "margin bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:354
+msgid "padding"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:357
+msgid "padding top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:362
+msgid "padding bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:368
+msgid "padding left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:373
+msgid "padding right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:381
+msgid "Margin Between Widgets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:394
+msgid "Font Styling"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:406
+msgid "General Font"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:520
+msgid "button text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:534
+msgid "Additional Classes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:538
+msgid "Custom CSS Classes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:538
+msgid ""
+"Add any classes you want for extra styling in your custom CSS with spaces "
+"in between. eg. class1 class2 "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:539
+msgid "Hide Form Desktop"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:539
+msgid ""
+"If the layout is responsive this option will make sure the element selected "
+"will not show for desktops"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:540
+msgid "Hide From Tablets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:540
+msgid ""
+"If the layout is responsive this option will make sure the element selected "
+"will not show for tablets"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:541
+msgid "Hide from Phones"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/css-generator.php:541
+msgid ""
+"If the layout is responsive this option will make sure the element selected "
+"will not show for phones"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-framed/shortcodes.php:1467
+msgid "Active"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:20
+msgid "Bad Request No theme Info Supplied"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:113
+msgid "LAYOUTS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:114
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:147
+msgid "Add New"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:149
+msgid "Click on row style you want to insert and then click insert button"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:149
+msgid "Insert Row"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:153
+msgid "EDIT CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:155
+msgid "Template CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:156
+msgid "Layout Specific CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:170
+msgid "Layout Options and extra classes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:170
+msgid "Layout Options"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:174
+msgid "Back to Layouts Screen"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:192
+msgid "Save Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:194
+msgid "The Layout Body"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:299
+msgid "Available Parts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:171
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:184
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:122
+msgid "Edit"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:171
+msgid "Add"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:183
+msgid "There are no options for this widget."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/ultimatum-widgets.php:195
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:122
+msgid "Delete"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/sc.php:21
+msgid "Shortcodes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-library/sc.php:51
+msgid "Preview"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:42
+msgid "ULTIMATUM SYSTEM REPORT"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:43
+msgid "Please include this information when requesting support:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:43
+msgid "Download System Report File"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:51
+msgid "Environment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:57
+msgid "Home URL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:61
+msgid "Site URL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:65
+msgid "Ultimatum Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:69
+msgid "WP Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:73
+msgid "Web Server Info"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:81
+msgid "MySQL Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:90
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:96
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:97
+#: ultimatum/wonderfoundry/widgets/the-menu.php:325
+msgid "Yes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:97
+#: ultimatum/wonderfoundry/widgets/the-menu.php:324
+msgid "No"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:100
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:104
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:108
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:113
+msgid "Default Timezone"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:118
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:120
+msgid "Default timezone is %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:120
+msgid ", php.ini timezone is %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:131
+msgid "Folder Permissions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:142
+msgid "Activated Extras"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:148
+msgid "Ultimatum Forms"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:152
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:164
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:176
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:188
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:200
+#: ultimatum/wonderfoundry/widgets/the-menu.php:296
+#: ultimatum/wonderfoundry/widgets/the-menu.php:303
+#: ultimatum/wonderfoundry/widgets/the-menu.php:380
+msgid "ON"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:154
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:166
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:178
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:190
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:202
+#: ultimatum/wonderfoundry/widgets/the-menu.php:295
+#: ultimatum/wonderfoundry/widgets/the-menu.php:302
+#: ultimatum/wonderfoundry/widgets/the-menu.php:379
+#: ultimatum/wonderfoundry/widgets/the-page.php:86
+msgid "OFF"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:196
+msgid "Post Ordering"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:216
+msgid "Installed Plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:233
+msgid "by"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-notes/index.php:233
+msgid "version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:46
+msgid "Template Name "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:50
+msgid "Grid FrameWork to use "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:61
+msgid "Twitter BootStrap Beginning Template (Bootswatches)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:85
+msgid "Twitter BootStrap3 Beginning Template (Bootswatches)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:112
+msgid "Template Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:114
+msgid "Regular"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:115
+msgid "Responsive"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:120
+msgid "Template Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:124
+msgid "Margins Between Columns"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:128
+msgid "Template Width <br /><span class=\"description\">(1200px and up)</span>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:132
+msgid ""
+"Margins Between Columns <br /><span class=\"description\">(1200px and "
+"up)</span>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:136
+msgid ""
+"Template Width <br /><span class=\"description\">(Portrait tablets 768px "
+"and above)</span>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:140
+msgid ""
+"Margins Between Columns <br /><span class=\"description\">(Portrait tablets "
+"768px and above)</span>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:144
+msgid "Use CDN "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:155
+msgid "Use CSS Generator "
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/edit-template.php:176
+msgid "Save Template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:39
+msgid "File"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:43
+msgid "Options"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:45
+msgid "Template Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:47
+msgid ""
+"If you wish to have the imported template with a different name than its "
+"original type the name you desire"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:50
+msgid "Import Assignments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:53
+msgid "Do not import layout assignments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:54
+msgid "Import layout assignments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:57
+msgid ""
+"The imported template may have assignmets to post types categories etc. If "
+"you want those assignments to be imported set this option so."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/import-template.php:61
+msgid "Import"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:132
+msgid ""
+"WARNING YOU DONT SEEM TO HAVE A DEFAULT TEMPLATE OR YOU MISS A DEFAULT "
+"LAYOUT"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:134
+msgid "WARNING YOU DONT SEEM TO HAVE A DEFAULT LAYOUT"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:152
+msgid "Create Child Theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:160
+msgid "Template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:189
+msgid "Export"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:194
+msgid "Regenerate CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:197
+msgid "CSS"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:199
+msgid "Layouts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:222
+msgid "Extra Row Styles Created"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:223
+msgid "Column Count"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:224
+msgid "Grid"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:405
+msgid "Create a Child Theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:416
+msgid "Child Theme Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:418
+msgid "Name for your Child Theme it can be anything you want. Eg. My Cool Theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:422
+msgid "Child Theme Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:424
+msgid ""
+"The ScreenShot image which will be shon in Themes Screen. Must be a png "
+"file!!"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:427
+msgid "Select Templates you want to move to the new child theme"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:439
+msgid "If non selected an empty child theme with no layouts will be created"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:449
+msgid ""
+"Sorry your themes folder is not writable you cannot use this function until "
+"you set permissions."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-templates/index.php:527
+msgid ""
+"Your Child theme is created you can now go to <a "
+"href=\"./themes.php\">Themes</a> screen and activate it"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:29
+msgid "Welcome to Ultimatum ToolSet"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:31
+msgid ""
+"Ultimatum ToolSet is central control Panel for Ultimatum and available "
+"Themes/Plugins to extend it."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:36
+msgid "Status"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:39
+msgid "Reset"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:50
+msgid ""
+"If you have moved the site from another domain Toolset will fail to receive "
+"updates as each domain is licensed seperately."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:52
+msgid ""
+" To overcome the issue please reset toolset reqistry with below button. You "
+"will be sent back to toolset login page so you can register the new domain."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:57
+msgid "Reset ToolSet"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:65
+msgid "Ultimatum Toolset User"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/index.php:66
+msgid ""
+"Any other user registered to this Site/Network will not be able to reach "
+"these screens"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:29
+msgid "Login to your Ultimatum Account"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:33
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:43
+#: ultimatum/wonderfoundry/widgets/the-twits.php:90
+msgid "Username"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:37
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:46
+msgid "Password"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:44
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:52
+msgid "Log In"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:48
+msgid "What is Tool Set and Why you need to register?"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:50
+msgid ""
+"Registering your site with ToolSet will grant you automatic Updates on "
+"Ultimatum and plugins included with it."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:51
+msgid ""
+"ToolSet is the control center and extension center of Ultimatum. You can "
+"access to the plugins we have included with Ultimatum via ToolSet."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:93
+msgid ""
+"wp_remote_post() was successful - Ultimatum Tool Set / Auto Update is "
+"working."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:96
+msgid ""
+"wp_remote_post() failed. Ultimatum Tool Set / Auto Updates won't work with "
+"your server. Contact your hosting provider. Error:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/setup.php:100
+msgid ""
+"wp_remote_post() failed. Ultimatum Tool Set / Auto Updates may not work "
+"with your server."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/themes.php:43
+msgid "THEMES"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:69
+msgid "Requires Multisite"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:72
+msgid "Requires BuddyPress"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:144
+msgid "Learn more"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:153
+msgid "INSTALL"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:160
+msgid "Network Deactivate"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:160
+msgid "Deactivate"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:162
+msgid "Network Activate"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:162
+msgid "Activate"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/listings.php:167
+msgid "Non-ToolSet version is INSTALLED"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:7
+msgid "Update data successfully refreshed from Ultimatum API Server."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:9
+msgid "There was a problem refreshing data from Ultimatum API Server."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:41
+msgid "Available Updates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:42
+msgid "Installed"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:64
+msgid "Ultimatum Updates Available"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:118
+msgid ""
+"Here you can find information about any available updates for your "
+"installed Ultimatum child themes and plugins. Note that it is important to "
+"keep your themes and plugins updated for security, performance, and to "
+"maintain compatibility with the latest versions of WordPress. Most plugins "
+"and themes are able to be auto-updated depending on where they are "
+"installed."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:133
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:136
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:198
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:201
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:329
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:331
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:393
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:395
+msgid "Auto Update"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:148
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:213
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:357
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:406
+msgid "View version %s details"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:152
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:217
+msgid "View Changes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:160
+msgid "No Ultimatum plugin updates required"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:163
+msgid "Ultimatum Plugin Updates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:167
+msgid "Update All Plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:174
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:239
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:312
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:376
+#: ultimatum/wonderfoundry/functions/comments.php:172
+msgid "Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:175
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:240
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:313
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:377
+msgid "Installed Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:176
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:241
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:314
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:378
+msgid "Latest Version"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:177
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:242
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:315
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:379
+msgid "Actions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:225
+msgid "No Ultimatum Child Theme updates required"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:228
+msgid "Ultimatum & Child Theme Updates"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:232
+msgid "Update All Themes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:252
+msgid "Please note that all data is updated every 12 hours."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:252
+msgid "Last updated:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:252
+msgid "Update Now"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:258
+msgid "Ultimatum & Installed Extras"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:305
+msgid ""
+"Here you can find a list of the Ultimatum plugins and themes installed on "
+"this server, along with quick links to documentation and support for each."
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:307
+msgid "Installed Ultimatum Plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:349
+msgid "Configure"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:364
+msgid "No installed Ultimatum plugins"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:369
+msgid "Ultimatum & Child Themes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-tools/views/updates.php:413
+msgid "No installed Ultimatum child themes"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:12
+msgid "Are you sure you wish to delete?"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:33
+msgid "Create a Post Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:89
+msgid "Custom Post Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:89
+msgid "Taxonomies"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:102
+msgid "Edit Post Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:103
+msgid "Add Taxonomy"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:104
+msgid "Delete Post Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:171
+msgid "Taxonomy Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:172
+msgid ""
+"The taxonomy name.  Used to retrieve custom taxonomy content.  Should be "
+"short and sweet (e.g. actors)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:176
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:242
+#: ultimatum/wonderfoundry/widgets/the-search.php:51
+msgid "Label"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:177
+msgid ""
+"Taxonomy label.  Used in the admin menu for displaying custom taxonomy. "
+"(e.g. Actors)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:181
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:246
+msgid "Singular Label"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:182
+msgid ""
+"Taxonomy Singular label.  Used in WordPress when a singular label is "
+"needed. (e.g. Actor)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:185
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:251
+msgid "Rewrite Slug"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:186
+msgid ""
+"Rewrite slug for your Taxonomy use no spaces and all small lettters leave "
+"blank if you want it created from your Taxonomy name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:195
+msgid "Save Taxonomy"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:234
+msgid "Post Type Name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:236
+msgid ""
+"The post type name.  Used to retrieve custom post type content.  Should be "
+"short and sweet.(e.g. movies)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:243
+msgid ""
+"Post type label.  Used in the admin menu for displaying post types.(e.g. "
+"Movies)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:247
+msgid ""
+"Custom Post Type Singular label.  Used in WordPress when a singular label "
+"is needed. (e.g. Movie)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:252
+msgid ""
+"Rewrite slug for your Post Type use no spaces and all small lettters leave "
+"blank if you want it created from your post type name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:255
+msgid "Supports"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:257
+msgid "Adds the title meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:258
+msgid "Editor"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:258
+msgid ""
+"Adds the content editor meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:259
+msgid "Excerpt"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:259
+msgid "Adds the excerpt meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:260
+msgid "Trackbacks"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:260
+msgid "Adds the trackbacks meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:261
+msgid "Custom Fields"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:261
+msgid ""
+"Adds the custom fields meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:262
+msgid "Adds the comments meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:263
+msgid "Revisions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:263
+msgid "Adds the revisions meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:264
+#: ultimatum/wonderfoundry/widgets/the-page.php:84
+msgid "Featured Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:264
+msgid ""
+"Adds the featured image meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:265
+#: ultimatum/wonderfoundry/widgets/custom-content.php:797
+msgid "Author"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:265
+msgid "Adds the author meta box when creating content for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:266
+msgid "Categories"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:266
+msgid "Adds categories for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:267
+msgid "Tags"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:267
+msgid "Adds tags for this custom post type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-types/index.php:272
+msgid "Save Post Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:35
+msgid "<h3>Comments</h3>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:66
+msgid "<h3>Trackbacks</h3>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:121
+msgid "at"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:123
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:247
+msgid "(Edit)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:130
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:174
+msgid "Email"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:176
+msgid "Website"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:180
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:194
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:196
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:197
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:198
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+"tags and attributes: %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:201
+msgid "Leave a Reply"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:202
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:203
+msgid "Cancel reply"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:204
+msgid "Post Comment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/common/wpml.php:32
+msgid "This post is also available in: "
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:249
+msgid "Pages:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:279
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:301
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:338
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:383
+#: ultimatum/wonderfoundry/widgets/custom-content.php:371
+msgid "by "
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:306
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:344
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:389
+#: ultimatum/wonderfoundry/widgets/custom-content.php:375
+msgid "No Comments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:306
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:344
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:389
+#: ultimatum/wonderfoundry/widgets/custom-content.php:375
+msgid "1 Comment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:306
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:344
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:389
+#: ultimatum/wonderfoundry/widgets/custom-content.php:375
+msgid "% Comments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:448
+msgid "About"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:479
+msgid "Older Posts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:480
+msgid "Newer Posts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:497
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:540
+msgid "Previous Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:498
+#: ultimatum/wonderfoundry/functions/loop/loop-functions.php:560
+msgid "Next Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/print-head.php:322
+msgid "Page %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/pro/ult_switcher/ult-switcher.php:324
+msgid "Theme: %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:81
+msgid "You are here: "
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:82
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:83
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:84
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:85
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:87
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:88
+msgid "Archives for "
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:86
+msgid "Search for "
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:89
+msgid "Not found: "
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:160
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:204
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:224
+msgid "View %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:244
+msgid "View all posts in %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:266
+msgid "View all %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:298
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:316
+msgid "View archives for %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:322
+msgid "View archives for %s %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/helpers/wonderworkshelper.php:356
+msgid "View all items in %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:19
+#: ultimatum/wonderfoundry/widgets/custom-content.php:832
+#: ultimatum/wonderfoundry/widgets/sliders/anything.php:67
+#: ultimatum/wonderfoundry/widgets/sliders/slidedeck.php:41
+#: ultimatum/wonderfoundry/widgets/the-content.php:19
+#: ultimatum/wonderfoundry/widgets/the-content.php:543
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:419
+msgid "Read More"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:20
+#: ultimatum/wonderfoundry/widgets/custom-content.php:833
+#: ultimatum/wonderfoundry/widgets/the-content.php:20
+#: ultimatum/wonderfoundry/widgets/the-content.php:544
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:420
+msgid "More"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:21
+#: ultimatum/wonderfoundry/widgets/custom-content.php:835
+#: ultimatum/wonderfoundry/widgets/the-content.php:21
+#: ultimatum/wonderfoundry/widgets/the-content.php:545
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:421
+msgid "Continue Reading"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:23
+#: ultimatum/wonderfoundry/widgets/custom-content.php:839
+#: ultimatum/wonderfoundry/widgets/the-content.php:23
+#: ultimatum/wonderfoundry/widgets/the-content.php:547
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:423
+msgid "Details"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:478
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:256
+msgid "Select Content Source"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:521
+msgid "Show Article Titles"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:529
+msgid "Items Count"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:536
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:301
+msgid "Loop Order first"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:541
+#: ultimatum/wonderfoundry/widgets/custom-content.php:572
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:303
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:320
+msgid "None"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:543
+#: ultimatum/wonderfoundry/widgets/custom-content.php:574
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:304
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:321
+msgid "ID"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:547
+#: ultimatum/wonderfoundry/widgets/custom-content.php:578
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:306
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:323
+msgid "title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:549
+#: ultimatum/wonderfoundry/widgets/custom-content.php:580
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:307
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:324
+msgid "name"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:551
+#: ultimatum/wonderfoundry/widgets/custom-content.php:582
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:308
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:325
+msgid "date {default}"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:553
+#: ultimatum/wonderfoundry/widgets/custom-content.php:584
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:309
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:326
+msgid "modified"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:555
+#: ultimatum/wonderfoundry/widgets/custom-content.php:586
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:310
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:327
+msgid "parent"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:557
+#: ultimatum/wonderfoundry/widgets/custom-content.php:588
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:311
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:328
+msgid "rand"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:559
+#: ultimatum/wonderfoundry/widgets/custom-content.php:590
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:312
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:329
+msgid "comment_count"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:561
+#: ultimatum/wonderfoundry/widgets/custom-content.php:592
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:313
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:330
+msgid "menu_order"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:567
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:318
+msgid "Loop Order second"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:597
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:335
+msgid "Order Direction"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:602
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:337
+msgid "Descending"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:604
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:338
+msgid "Ascending"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:609
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:343
+msgid "Skip first"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:612
+msgid "Loop Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:659
+#: ultimatum/wonderfoundry/widgets/the-content.php:394
+msgid "One Column With Full Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:661
+#: ultimatum/wonderfoundry/widgets/the-content.php:395
+msgid "One Column With Image On Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:663
+#: ultimatum/wonderfoundry/widgets/the-content.php:396
+msgid "One Column With Image On Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:665
+#: ultimatum/wonderfoundry/widgets/the-content.php:397
+msgid "One Column Gallery With Image On Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:667
+#: ultimatum/wonderfoundry/widgets/the-content.php:398
+msgid "One Column Gallery With Image On Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:669
+#: ultimatum/wonderfoundry/widgets/the-content.php:399
+msgid "One Column With No Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:671
+#: ultimatum/wonderfoundry/widgets/the-content.php:400
+msgid "Two Columns With Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:673
+#: ultimatum/wonderfoundry/widgets/the-content.php:401
+msgid "Two Columns Gallery"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:675
+#: ultimatum/wonderfoundry/widgets/the-content.php:402
+msgid "Two Columns With No Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:677
+#: ultimatum/wonderfoundry/widgets/the-content.php:403
+msgid "Three Columns With Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:679
+#: ultimatum/wonderfoundry/widgets/the-content.php:404
+msgid "Three Columns Gallery"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:681
+#: ultimatum/wonderfoundry/widgets/the-content.php:405
+msgid "Three Columns With No Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:683
+#: ultimatum/wonderfoundry/widgets/the-content.php:406
+msgid "Four Columns With Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:685
+#: ultimatum/wonderfoundry/widgets/the-content.php:407
+msgid "Four Columns Gallery"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:687
+#: ultimatum/wonderfoundry/widgets/the-content.php:408
+msgid "Four Columns With No Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:691
+#: ultimatum/wonderfoundry/widgets/the-content.php:206
+#: ultimatum/wonderfoundry/widgets/the-content.php:413
+msgid "No Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:700
+#: ultimatum/wonderfoundry/widgets/the-content.php:222
+#: ultimatum/wonderfoundry/widgets/the-content.php:420
+msgid "Image Position"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:705
+#: ultimatum/wonderfoundry/widgets/custom-content.php:771
+#: ultimatum/wonderfoundry/widgets/the-content.php:224
+#: ultimatum/wonderfoundry/widgets/the-content.php:256
+#: ultimatum/wonderfoundry/widgets/the-content.php:422
+#: ultimatum/wonderfoundry/widgets/the-content.php:468
+#: ultimatum/wonderfoundry/widgets/the-page.php:87
+msgid "After Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:707
+#: ultimatum/wonderfoundry/widgets/the-content.php:225
+#: ultimatum/wonderfoundry/widgets/the-content.php:423
+#: ultimatum/wonderfoundry/widgets/the-page.php:88
+msgid "Before Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:714
+#: ultimatum/wonderfoundry/widgets/the-content.php:229
+#: ultimatum/wonderfoundry/widgets/the-content.php:427
+msgid "Replace Featured Image with gallery or Video"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:723
+#: ultimatum/wonderfoundry/widgets/the-content.php:445
+msgid "Show Content As"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:734
+msgid "Excerpt Length(chars)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:741
+#: ultimatum/wonderfoundry/widgets/the-content.php:434
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:380
+msgid "Image Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:749
+#: ultimatum/wonderfoundry/widgets/the-content.php:439
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:384
+msgid "Image Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:756
+#: ultimatum/wonderfoundry/widgets/the-content.php:245
+#: ultimatum/wonderfoundry/widgets/the-content.php:457
+msgid "Taxonomy"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:760
+#: ultimatum/wonderfoundry/widgets/the-content.php:247
+#: ultimatum/wonderfoundry/widgets/the-content.php:459
+msgid "After Meta"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:762
+#: ultimatum/wonderfoundry/widgets/custom-content.php:775
+#: ultimatum/wonderfoundry/widgets/the-content.php:248
+#: ultimatum/wonderfoundry/widgets/the-content.php:257
+#: ultimatum/wonderfoundry/widgets/the-content.php:460
+#: ultimatum/wonderfoundry/widgets/the-content.php:469
+msgid "After Content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:767
+#: ultimatum/wonderfoundry/widgets/the-content.php:254
+#: ultimatum/wonderfoundry/widgets/the-content.php:466
+msgid "Meta"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:773
+msgid "After Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:783
+#: ultimatum/wonderfoundry/widgets/the-content.php:316
+#: ultimatum/wonderfoundry/widgets/the-content.php:526
+msgid "Meta Seperator"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:790
+msgid "Date"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:815
+#: ultimatum/wonderfoundry/widgets/the-content.php:532
+msgid "Read More Link"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:820
+#: ultimatum/wonderfoundry/widgets/the-content.php:535
+msgid "Right Aligned"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:822
+#: ultimatum/wonderfoundry/widgets/the-content.php:536
+msgid "Left Aligned"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/custom-content.php:828
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:417
+msgid "Read More Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/selection.php:13
+#: ultimatum/wonderfoundry/widgets/the-content.php:551
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:793
+msgid "Navigation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:35
+msgid "My Account"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:39
+msgid "Login failed, please try again"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:49
+msgid "Remember Me"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:61
+msgid "Logout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:72
+msgid "Cart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:74
+msgid "Item(s)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:89
+msgid "View Cart"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/menus/ultimatum-menu.php:90
+msgid "Checkout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/templatera-widget.php:14
+msgid "Select template"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-comments.php:37
+msgid "Recent Comments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-comments.php:56
+#. translators: extended comments widget: 1: comment author, 2: post link
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-comments.php:97
+msgid "Number of comments to show"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-comments.php:101
+msgid "Length of Comment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-comments.php:105
+msgid "Avatar size"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:24
+msgid "Daily Archives %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:25
+msgid "Monthly Archives %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:26
+msgid "Yearly Archives %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:27
+msgid "Archives for %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:28
+msgid "Posts by %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:29
+msgid "Search Results for %s"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:144
+msgid "Single Post Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:145
+msgid "Multi Post Layout"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:198
+msgid "Full image on Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:199
+msgid "No image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:200
+msgid "Image On Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:201
+msgid "Image On Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:213
+msgid "Image Width on Single Post"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:218
+msgid "Image Height on Single Post"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:238
+msgid "Show Comment Form and Comments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:262
+msgid "Single Post Meta Properties"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:263
+#: ultimatum/wonderfoundry/widgets/the-content.php:474
+msgid "Drag&drop then order items from left to right column to show"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:323
+msgid "Show Post Navigation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:325
+msgid "On Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:326
+msgid "At Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:337
+msgid "Archive Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:352
+msgid "Items Per Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:356
+msgid "Layout When Page has Multiple Posts"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:453
+msgid "Excerpt Length(words)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:534
+msgid "Right after excerpt"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:541
+msgid "Read More Text:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:553
+msgid "Numeric"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:554
+msgid "Prev-Next"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-content.php:555
+msgid "Older-Newer"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:42
+msgid "Set Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:54
+msgid "Image Class"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:58
+msgid "Alternate Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:65
+msgid "Stay in Window"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:66
+msgid "Open New Window"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-image.php:67
+msgid "Lightbox"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-logo.php:61
+msgid "Logo Text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-logo.php:65
+msgid "Logo Tag"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-logo.php:69
+msgid "Logo Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:116
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:122
+msgid "Select Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:134
+msgid "Menu Script"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:137
+msgid "Horizontal DropDown Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:140
+msgid "Vertical DropDown Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:142
+msgid "Bootstrap Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:143
+msgid "NEW - Ultimatum Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:144
+msgid "NEW - Mobile Drop Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:145
+msgid "NEW - Side Menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:151
+#: ultimatum/wonderfoundry/widgets/the-menu.php:196
+msgid "Number Items Per Row"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:167
+msgid "Hor. Mega Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:169
+msgid ""
+"To align Horizontal Mega menu to right you need to set a width otherwise "
+"leave empty"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:172
+#: ultimatum/wonderfoundry/widgets/the-menu.php:211
+msgid "Animation Effect"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:174
+#: ultimatum/wonderfoundry/widgets/the-menu.php:213
+msgid "Fade In"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:175
+msgid "Slide Down"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:179
+#: ultimatum/wonderfoundry/widgets/the-menu.php:217
+msgid "Animation Direction"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:186
+#: ultimatum/wonderfoundry/widgets/the-menu.php:224
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:464
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:558
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:783
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:915
+msgid "Animation Speed"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:188
+#: ultimatum/wonderfoundry/widgets/the-menu.php:226
+msgid "Fast"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:190
+#: ultimatum/wonderfoundry/widgets/the-menu.php:228
+msgid "Slow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:214
+msgid "Slide"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:234
+#: ultimatum/wonderfoundry/widgets/the-menu.php:244
+msgid "Alignment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:256
+msgid "Show hierarchy"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:258
+msgid "Display all"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:259
+msgid "Only related sub-items"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:260
+msgid "Only strictly related sub-items"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:264
+msgid "How many levels to display"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:266
+msgid "Unlimited depth"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:267
+msgid "1 level deep"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:268
+msgid "2 levels deep"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:269
+msgid "3 levels deep"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:270
+msgid "4 levels deep"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:271
+msgid "5 levels deep"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:272
+msgid "Flat display"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:278
+#: ultimatum/wonderfoundry/widgets/the-menu.php:338
+msgid "Menu Style"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:281
+msgid "Inverse"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:285
+#: ultimatum/wonderfoundry/widgets/the-menu.php:331
+msgid "Menu Position"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:288
+msgid "Fixed Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:289
+msgid "Fixed Bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:293
+msgid "Show Logo"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:300
+#: ultimatum/wonderfoundry/widgets/the-menu.php:377
+msgid "Show Search"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:310
+#: ultimatum/wonderfoundry/widgets/the-menu.php:400
+msgid "Navigation Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:312
+#: ultimatum/wonderfoundry/widgets/the-menu.php:402
+msgid "What would button or option would say? Navigation,Menu etc."
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:315
+msgid "Align Button"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:322
+msgid "Allow Parent Links"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:340
+msgid "Light"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:341
+msgid "Dark"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:346
+msgid "Top Widget Area"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:361
+msgid "Bottom Widget Area"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:386
+msgid "Convert to Mobile Menu below width as pixels"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:388
+msgid ""
+"Type in the pixel value where you want your menu to be converted to mobile "
+"menu"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:391
+msgid "Mobile Menu Script"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:393
+msgid "Dropdown Select"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:394
+msgid "Mobile On Top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:395
+msgid "Mobile on side"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-menu.php:397
+msgid ""
+"If you want to change settings of side menu switch Menu Script to side do "
+"your settings and switch back to your desired menu."
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-page.php:60
+msgid "This will show the content of the page selected in a Position"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-page.php:62
+msgid "Select a Page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-page.php:64
+msgid "Select page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-page.php:77
+msgid "Page Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-page.php:92
+msgid "Image Height:"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:350
+msgid "Vertical with Full Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:351
+msgid "Vertical with Image on Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:352
+msgid "Vertical with Image on Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:353
+msgid "Vertical with no Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:354
+msgid "Horizontal with Full Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:355
+msgid "Horizontal with Image on Left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:356
+msgid "Horizontal with Image on Right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:357
+msgid "Horizontal with no Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:361
+msgid "Act As Gallery?"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:368
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:396
+msgid "Item Count"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:388
+msgid "Show Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:395
+msgid "Title Length(Chars)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:399
+msgid "Show Excerpt"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:406
+msgid "Excerpt Length(Chars)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-recentposts.php:410
+msgid "Show Read More"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-search.php:45
+msgid "Leave fields empty to disable them"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-search.php:55
+msgid "Placeholder text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-search.php:59
+msgid "Button text"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-sidebars.php:25
+msgid "Sidebar"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-sidebars.php:38
+msgid ""
+"you do not have any sidebars defined please define some in developer "
+"options page"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:344
+msgid "Select Slide Source"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:398
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:403
+msgid "If slideshow source is content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:401
+msgid "Excerpt Length"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:406
+msgid "Slide Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:411
+msgid "Select a SlideShow Script"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:426
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:474
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:568
+msgid "Pause Time"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:436
+msgid "Auto Play"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:444
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:528
+msgid "Slide Effect"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:457
+msgid "Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:483
+msgid "Full Width Slider options"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:489
+msgid "Space from Top in px"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:493
+msgid "Show Captions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:500
+msgid "Captions Background Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:504
+msgid "Captions Text Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:508
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:578
+msgid "Show Next & Prev"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:548
+msgid "Segments"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:585
+msgid "Next & Prev on Hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:592
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:800
+msgid "Control Navigation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:599
+msgid "Pause on Hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:606
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:667
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:862
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:889
+msgid "Captions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:613
+msgid "Caption Opacity"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:642
+msgid "BackGround Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:646
+msgid "Slider Type"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:653
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:972
+msgid "Show Video Instead of Image"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:661
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:877
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:943
+msgid "Image Width in Slide"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:663
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:947
+msgid "Image Height in Slide"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:667
+msgid "for full ones"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:674
+msgid "Auto Start Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:681
+msgid "Delay between slides"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:691
+msgid "Animation Time"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:701
+msgid "Pause On Hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:708
+msgid "Show Arrows"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:715
+msgid "Bottom Navigation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:722
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:925
+msgid "Animation (easing)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:752
+msgid "Animation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:759
+msgid "Slide Direction"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:766
+msgid "Auto Start"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:773
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:979
+msgid "Slide Speed"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:807
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:814
+msgid "Mouse Wheel"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:821
+msgid "Random Slides"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:828
+msgid "Loop Slides"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:835
+msgid "Pause on action"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:842
+msgid "Pause on hover"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:854
+msgid "Captions Width"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:858
+msgid "Captions Height"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:864
+msgid "top"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:865
+msgid "bottom"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:866
+msgid "left"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:867
+msgid "right"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:871
+msgid "Slide duration"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:882
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:958
+msgid "Auto Slide"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:891
+msgid "No Captions "
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:892
+msgid "Bottom Captions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:893
+msgid "Fancy Captions"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:897
+msgid "Caption BG Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:901
+msgid "Caption Text Color"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:905
+msgid "Delay Between Slides"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:951
+msgid "Spines"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-slideshow.php:965
+msgid "Show Index Number"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:90
+msgid "Icon Style"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:98
+msgid "Icon Size in px"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:101
+msgid ""
+"The social icon linkage will be shown after you select the social networks "
+"and then click save)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:103
+msgid "Enable Social Icon (use CTRL+Click to multi Select)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:112
+msgid "Please input FULL URL <br/>(e.g. http://twitter.com/wonderfoundry)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-social.php:122
+msgid "Align Icons"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-supertitle.php:48
+msgid "Fill in the Title or leave blank to have default WordPress Title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:49
+msgid "about %d seconds ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:50
+msgid "about a minute ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:51
+msgid "about %d minutes ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:52
+msgid "about an hour ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:53
+msgid "about %d hours ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:54
+msgid "about a day ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:55
+msgid "about %d days ago"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:56
+msgid "view tweet on twitter"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:87
+msgid "Title "
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:94
+msgid "Note: Use ',' separate multi user.<br> (e.g <code>user1,user2</code>)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:97
+msgid "height and width of avatar if displayed (48px max)(optional)"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:101
+msgid "How many tweets to display?"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:103
+msgid "Refresh Time in Minutes :"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:106
+msgid "Query (optional):"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/the-twits.php:110
+msgid ""
+"Query uses <a href='https://dev.twitter.com/docs/using-search' "
+"target='_blank'>Twitter's Search API</a>, so you can display any tweets you "
+"like."
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/ult-wysiwyg.php:41
+msgid "New title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/ult-wysiwyg.php:62
+msgid "Edit content"
+msgstr ""
+
+#: ultimatum/wonderfoundry/widgets/ult-wysiwyg.php:68
+msgid "Output title"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:20
+msgctxt "post type general name"
+msgid "Slideshows"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:21
+msgctxt "post type singular name"
+msgid "Slideshow"
+msgstr ""
+
+#: ultimatum/wonderfoundry/addons/plugins/ult-sliders/usliders.php:22
+msgctxt "ult_slideshow"
+msgid "Add New"
+msgstr ""
+
+#: ultimatum/wonderfoundry/admin/interfaces/wonder-layout/index.php:312
+msgctxt "removing-widget"
+msgid "Deactivate"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/comments.php:192
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop.php:164
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ultimatum/wonderfoundry/functions/loop.php:166
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""

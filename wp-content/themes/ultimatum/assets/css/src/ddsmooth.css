@@ -1,0 +1,97 @@
+.ddsmoothmenuh {
+  width: 100%;
+  float: left
+}
+.ddsmoothmenuh ul {
+  z-index: 100;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  float: right
+}
+.ddsmoothmenuh ul li {
+  position: relative;
+  display: inline;
+  float: left
+}
+.ddsmoothmenuh ul li a {
+  display: block;
+  padding: 8px 10px;
+  text-decoration: none
+}
+* html .ddsmoothmenuh ul li a {
+  display: inline-block
+}
+.ddsmoothmenuh ul li ul {
+  position: absolute;
+  left: 0;
+  display: none;
+  visibility: hidden
+}
+.ddsmoothmenuh ul li ul li {
+  display: list-item;
+  float: none
+}
+.ddsmoothmenuh ul li ul li ul {
+  top: 0
+}
+.ddsmoothmenuh ul li ul li a {
+  padding: 5px;
+  margin: 0;
+  border-top-width: 0
+}
+.ddsmoothmenuh.center>ul {
+  margin: 0 auto;
+  float: none
+}
+* html .ddsmoothmenuh {
+  height: 1%
+}
+.downarrowclass {
+  position: absolute;
+  top: 12px;
+  right: 7px
+}
+.rightarrowclass {
+  position: absolute;
+  top: 6px;
+  right: 5px
+}
+.ddshadow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0
+}
+.toplevelshadow {
+  opacity: .8
+}
+.ddsmoothmenuv ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style-type: none
+}
+.ddsmoothmenuv ul li {
+  position: relative
+}
+.ddsmoothmenuv ul li a {
+  display: block;
+  overflow: auto;
+  text-decoration: none;
+  padding: 6px
+}
+.ddsmoothmenuv ul li ul {
+  position: absolute;
+  top: 0;
+  font-weight: normal;
+  visibility: hidden
+}
+* html .ddsmoothmenuv ul li {
+  float: left;
+  height: 1%
+}
+* html .ddsmoothmenuv ul li a {
+  height: 1%
+}

@@ -1,0 +1,19 @@
+html.wp-toolbar {
+    padding-top: 0px;
+}
+body{
+	margin:0;
+	font-family:Arial,sans-serif;
+}
+#feedback { font-size: 1.4em; }
+#selectable .ui-selecting { background: #FECA40; }
+#selectable .ui-selected { background: #777777; color: white; }
+table.preview {width:180px;height:50px;border-spacing: 2px;border-collapse:separate}
+table.preview td {background:#E0e0e0;text-align:center;border-radius:3px;font-family:Arial}
+ol {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+ol li {float:left;margin-left:5px;margin-bottom:5px;padding:3px;}
+#wpadminbar { display:none; }

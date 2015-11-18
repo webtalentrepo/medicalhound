@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "Activate under construction template"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/index.php:14
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/static.php:1
+msgid "Base Menu"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/admin/ahtml.class.php:1
+msgid "Choose File"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/single.php:49
+msgid "Click here to read more"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/single.php:59
+#: my-blue-construction/index.php:59
+msgid "Closed"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "Default under construction description"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "E-mail ( required )"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/single.php:64
+#: my-blue-construction/index.php:64
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "Email feed Subscription"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/404.php:13
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "Facebook url"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "Fill this with your\\'s twitter account"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "Fill with Google FeedBurner account ex : "
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/pages.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/static.php:1
+msgid "General Sidebar"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "It will activate only on front page"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+msgid "Left sidebar"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/search.php:35
+#: my-blue-construction/index.php:79
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Nickname ( required )"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/index.php:84
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/mythemes.class.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/page.php:36
+#: my-blue-construction/single.php:50
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/search.php:25
+#: my-blue-construction/index.php:28
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/single.php:35
+#: my-blue-construction/index.php:36
+msgid "Posted on"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/search.php:35
+#: my-blue-construction/index.php:79
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/underconstruction.php:92
+#: my-blue-construction/header.php:29
+msgid "RSS Feed"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/search.php:21
+#: my-blue-construction/single.php:48
+#: my-blue-construction/index.php:48
+msgid "Read more about this"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/page.php:35
+msgid "Read the rest of this page"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/admin/ahtml.class.php:1
+msgid "Remove data from this field"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+msgid "Right sidebar"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/search.php:13
+msgid "Search Results"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+msgid "Select blog sidebar position"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+msgid "Set custom CSS"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/front-page.php:1
+msgid "Set items limit for front page menu"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "Show content from page ( 600 chars )"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/static.php:1
+msgid "Sidebar for Blog section"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/pages.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/pages.php:1
+msgid "Social Settings"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/search.php:39
+msgid "Sorry, nothing found."
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+msgid "This logo will be used only for blog and presentation side"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "This logo will be used only for under construction side"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/front-page.php:1
+msgid "This logo will be used only on front page"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/pages.php:1
+msgid "Under Construction"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/static.php:1
+msgid "Under Construction Menu"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/pages.php:1
+msgid "Under Construction Settings"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/search.php:40
+msgid "Unfortunately we did not find any results for your request."
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/admin/main.php:1
+msgid "Update Settings"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/general.php:1
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "Upload logo"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/front-page.php:1
+msgid "Upload logo for front page"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/admin/main.php:1
+msgid "Version"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/single.php:85
+#: my-blue-construction/404.php:14
+#: my-blue-construction/index.php:85
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/under-construction.php:1
+msgid "Will display page content with do shortcodes"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "You may use these HTML tags and attributes"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "You want display Rss Feed"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/fw/mythemes.class.php:1
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/comments.php:1
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/index.php:55
+msgid "comments"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/underconstruction.php:92
+msgid "facebook profile"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/header.php:44
+msgid "facebook profile : "
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "if you want to display on front page"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/admin/social.php:1
+msgid "if you want to display twitter icon on front page"
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/single.php:35
+#: my-blue-construction/index.php:36
+msgid "in"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/fw/admin/main.php:1
+msgid "options has been updated successfully"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/single.php:69
+msgid "tags"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/cfg/underconstruction.php:92
+msgid "twitter account"
+msgstr ""
+
+#. Text in function
+#: my-blue-construction/header.php:44
+msgid "twitter account : "
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/searchform.php:4
+msgid "type here..."
+msgstr ""
+
+#. Text in echo
+#: my-blue-construction/cfg/underconstruction.php:46
+msgid "your email for subscription"
+msgstr ""

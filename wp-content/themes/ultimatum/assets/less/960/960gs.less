@@ -1,0 +1,58 @@
+/*!
+ * 960.gs grid with bootstrap abilities.
+ */
+
+// Core variables and mixins
+@import "variables.less"; // Modify this for custom colors, font-sizes, etc
+@import "mixins.less";
+
+// CSS Reset
+@import "../tbs2/reset.less";
+
+// Grid system and page structure
+@import "../tbs2/scaffolding.less";
+@import "../tbs2/grid.less";
+@import "../tbs2/layouts.less";
+
+// Base CSS
+@import "../tbs2/type.less";
+@import "../tbs2/code.less";
+@import "../tbs2/forms.less";
+@import "../tbs2/tables.less";
+
+// Components: common
+@import "../tbs2/sprites.less";
+@import "../tbs2/dropdowns.less";
+@import "../tbs2/wells.less";
+@import "../tbs2/component-animations.less";
+@import "../tbs2/close.less";
+
+// Components: Buttons & Alerts
+@import "../tbs2/buttons.less";
+@import "../tbs2/button-groups.less";
+@import "../tbs2/alerts.less"; // Note: alerts share common CSS with buttons and thus have styles in buttons.less
+
+// Components: Nav
+@import "../tbs2/navs.less";
+@import "../tbs2/navbar.less";
+@import "../tbs2/breadcrumbs.less";
+@import "../tbs2/pagination.less";
+@import "../tbs2/pager.less";
+
+// Components: Popovers
+@import "../tbs2/modals.less";
+@import "../tbs2/tooltip.less";
+@import "../tbs2/popovers.less";
+
+// Components: Misc
+@import "../tbs2/thumbnails.less";
+@import "../tbs2/media.less";
+@import "../tbs2/labels-badges.less";
+@import "../tbs2/progress-bars.less";
+@import "../tbs2/accordion.less";
+@import "../tbs2/carousel.less";
+@import "../tbs2/hero-unit.less";
+
+// Utility classes
+@import "../tbs2/utilities.less"; // Has to be last to override when necessary
+@import "../ultimatum/ultimatum.less";

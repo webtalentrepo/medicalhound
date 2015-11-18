@@ -1,0 +1,84 @@
+body, td,input, select, textarea{
+	font-size:14px;
+	line-height:1.2em;
+}
+.colorSelector {
+	position: relative;
+	width: 36px;
+	height: 36px;
+	background: url(../images/select.png);
+	float:left;
+}
+.colorSelector div {
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	width: 30px;
+	height: 30px;
+	background: url(../images/select.png) center;
+}
+table.mce-start td {
+	background:#E0e0e0;
+	border-radius:10px;
+	font-family:Arial;
+	font-size:24px;
+	line-height:48px;
+	padding:5px;
+	width:50%;
+}
+table.mce-start td img {
+	float:left;
+	margin-right:5px;
+}
+a ,a:hover, a:visited {
+	text-decoration:none;
+}
+#feedback { font-size: 1.4em; }
+			#selectable .ui-selecting { background: #FECA40; }
+			#selectable .ui-selected { background: #777777; color: white; }
+			table.preview2 {width:180px;height:50px;}
+			table.preview2 td {background:#E0e0e0;text-align:center;border-radius:3px;font-family:Arial}
+ol {
+		margin:0;
+		padding:0;
+		list-style:none;
+		width:400px;
+}
+ol li {float:left;margin-left:5px;margin-bottom:5px;padding:3px;}
+submit,button,input.button-primary, button.button-primary, a.button-primary {
+    background: url("../images/button-grad.png") repeat-x scroll left top #21759B;
+    border-color: #298CBA;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+submit,button,input.button-primary:active, button.button-primary:active, a.button-primary:active {
+    background: url("../images/button-grad-active.png") repeat-x scroll left top #21759B;
+    color: #EAF2FA;
+}
+submit,button,input.button-primary:hover, button.button-primary:hover, a.button-primary:hover, a.button-primary:focus, a.button-primary:active {
+    border-color: #13455B;
+    color: #EAF2FA;
+}
+submit,button,.submit input, .button, input.button, .button-primary, input.button-primary, .button-secondary, input.button-secondary, .button-highlighted, input.button-highlighted, #postcustomstuff .submit input {
+    -moz-box-sizing: content-box;
+    border-radius: 11px 11px 11px 11px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-size: 13px !important;
+    line-height: 14px;
+    padding: 3px 8px;
+    text-decoration: none;
+}
+.savedstyles h2{
+	font-size:18px;
+	padding:0;
+	margin:0;
+	line-height:20px;
+}
+.savedstyles ul{
+	list-style:none;
+	font-size:14px;
+	line-height:16px;
+}

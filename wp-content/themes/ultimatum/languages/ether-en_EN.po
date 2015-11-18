@@ -1,0 +1,2869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ether Forms\n"
+"POT-Creation-Date: 2013-06-26 01:34+0100\n"
+"PO-Revision-Date: 2013-06-26 01:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: Por Design <contact.pordesign@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;langr;lang;langx;langn;ether::"
+"langr;ether::lang;ether::langx;ether::langn\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ether-forms.php:31
+msgid "Quit without saving?"
+msgstr ""
+
+#: ../ether-forms.php:32
+msgid "Lose editor changes?"
+msgstr ""
+
+#: ../ether-forms.php:33
+msgid "Are you sure?"
+msgstr ""
+
+#: ../ether-forms.php:59 ../admin/ether-update.php:300
+msgid "Update"
+msgstr ""
+
+#: ../ether-forms.php:60 ../admin/ether-license.php:92
+msgid "License"
+msgstr ""
+
+#: ../ether-forms.php:61 ../admin/ether-forms.php:96
+#: ../modules/post/form.php:43 ../modules/post/form.php:53
+msgid "Forms"
+msgstr ""
+
+#: ../ether-forms.php:76 ../modules/form.php:2288 ../modules/post/form.php:44
+msgid "Form"
+msgstr ""
+
+#: ../ether-forms.php:77
+msgid "Options"
+msgstr ""
+
+#: ../ether-forms.php:78
+msgid "Entry"
+msgstr ""
+
+#: ../ether-forms.php:79
+msgid "Meta"
+msgstr ""
+
+#: ../admin/ether-license.php:61
+msgid "Envato"
+msgstr ""
+
+#: ../admin/ether-license.php:62
+msgid "Ether"
+msgstr ""
+
+#: ../admin/ether-license.php:82
+msgid "license key"
+msgstr ""
+
+#: ../admin/ether-license.php:85
+msgid "license service"
+msgstr ""
+
+#: ../admin/ether.php:41
+msgid "Welcome to Ether world"
+msgstr ""
+
+#: ../admin/ether.php:43 ../admin/ether-update.php:303
+msgid "Framework &amp; Plugin info"
+msgstr ""
+
+#: ../admin/ether.php:45
+msgid "Ether Framework"
+msgstr ""
+
+#: ../admin/ether.php:48
+msgid "Need help?"
+msgstr ""
+
+#: ../admin/ether.php:49
+msgid ""
+"In case of a need of any further asistance that goes beyond the scope "
+"provided by plugin documentation please try the following:"
+msgstr ""
+
+#: ../admin/ether.php:51
+msgid ""
+"Quick chat if we're around: irc #ether@quakenet.org (You can use <a href="
+"\"http://ether-wp.com/irc\">webirc</a> if you don't have an irc client "
+"installed.)"
+msgstr ""
+
+#: ../admin/ether.php:52
+msgid ""
+"Email: <a href=\"mailto:contact.pordesign@gmail.com\">contact."
+"pordesign@gmail.com</a> - Note: When reporting plugin/theme incompatibility "
+"please include the following details in your message along with problem "
+"description for smoother turnaround:"
+msgstr ""
+
+#: ../admin/ether.php:54
+msgid "your item purchase code you got after purchasing an item"
+msgstr ""
+
+#: ../admin/ether.php:55
+msgid "zipped Plugin/Theme files so we can conduct local tests"
+msgstr ""
+
+#: ../admin/ether.php:56
+msgid "FTP and WP admin login/pass to your installation"
+msgstr ""
+
+#: ../admin/ether.php:59
+msgid "<a href=\"http://ether-wp.com/forum\">Forum</a>"
+msgstr ""
+
+#: ../admin/ether-forms.php:93
+msgid "Light"
+msgstr ""
+
+#: ../admin/ether-forms.php:93
+msgid "Dark"
+msgstr ""
+
+#: ../admin/ether-forms.php:98
+msgid "Styles"
+msgstr ""
+
+#: ../admin/ether-forms.php:102
+msgid "Color scheme"
+msgstr ""
+
+#: ../admin/ether-forms.php:107 ../modules/form-widget.php:1133
+#: ../modules/form-widget.php:1134
+msgid "ReCAPTCHA"
+msgstr ""
+
+#: ../admin/ether-forms.php:110
+msgid "ReCAPTCHA private key"
+msgstr ""
+
+#: ../admin/ether-forms.php:113
+msgid "ReCAPTCHA public key"
+msgstr ""
+
+#: ../admin/ether-forms.php:117
+msgid "Custom styles"
+msgstr ""
+
+#: ../admin/ether-forms.php:120
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/ether-update.php:133
+msgid "Update in progress - do you really want to leave?"
+msgstr ""
+
+#: ../admin/ether-update.php:157
+msgid "Access denied. Aborting..."
+msgstr ""
+
+#: ../admin/ether-update.php:172
+msgid "New update is available"
+msgstr ""
+
+#: ../admin/ether-update.php:176
+msgid "Everything is up to date"
+msgstr ""
+
+#: ../admin/ether-update.php:182
+msgid "Preparing update..."
+msgstr ""
+
+#: ../admin/ether-update.php:196
+msgid "Updating..."
+msgstr ""
+
+#: ../admin/ether-update.php:199
+msgid "Something gone wrong, check our servers status."
+msgstr ""
+
+#: ../admin/ether-update.php:211
+msgid "Checking product filesystem..."
+msgstr ""
+
+#: ../admin/ether-update.php:214
+msgid "Validating license key failed."
+msgstr ""
+
+#: ../admin/ether-update.php:225
+msgid "Connection timed out"
+msgstr ""
+
+#: ../admin/ether-update.php:228
+msgid "Connection aborted"
+msgstr ""
+
+#: ../admin/ether-update.php:231
+msgid "Unknown error. Aborting..."
+msgstr ""
+
+#: ../admin/ether-update.php:251
+msgid "Validating product key..."
+msgstr ""
+
+#: ../admin/ether-update.php:252
+#, php-format
+msgid "Checking for %s updates..."
+msgstr ""
+
+#: ../admin/ether-update.php:302
+#, php-format
+msgid ""
+"In order to use auto update feature you have to %sprovide license key%s for "
+"this product"
+msgstr ""
+
+#: ../admin/ether-update.php:308
+msgid "Product name"
+msgstr ""
+
+#: ../admin/ether-update.php:309
+msgid "Check for updates"
+msgstr ""
+
+#: ../admin/ether-update.php:314
+msgid "Update now"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:139
+msgid "Show message"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:140
+msgid "Redirect"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:145
+msgid "Small"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:146
+msgid "Medium"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:147
+msgid "Big"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:152 ../modules/form.php:2121
+#: ../modules/form-widget.php:1357 ../modules/form-widget.php:1649
+#: ../modules/form-widget.php:1732 ../modules/form-widget.php:1797
+#: ../modules/form-widget.php:1918
+msgid "Left"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:153 ../modules/form.php:2122
+#: ../modules/form-widget.php:1357 ../modules/form-widget.php:1650
+#: ../modules/form-widget.php:1733 ../modules/form-widget.php:1798
+#: ../modules/form-widget.php:1918
+msgid "Right"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:154 ../modules/form.php:2123
+#: ../modules/form-widget.php:1357 ../modules/form-widget.php:1651
+#: ../modules/form-widget.php:1734 ../modules/form-widget.php:1799
+#: ../modules/form-widget.php:1918
+msgid "Center"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:159 ../ether/ether.php:429
+#: ../modules/form.php:2041 ../modules/form.php:2050 ../modules/form.php:2120
+#: ../modules/form-widget.php:1648
+msgid "Default"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:160
+msgid "Inline fields"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:161
+msgid "Short fields"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:165 ../modules/form-widget.php:23
+#: ../modules/form-widget.php:90 ../modules/form-widget.php:201
+#: ../modules/form-widget.php:303 ../modules/form-widget.php:362
+#: ../modules/form-widget.php:512 ../modules/form-widget.php:551
+#: ../modules/form-widget.php:581 ../modules/form-widget.php:813
+#: ../modules/form-widget.php:983 ../modules/form-widget.php:1053
+#: ../modules/form-widget.php:1099 ../modules/form-widget.php:1166
+#: ../modules/form-widget.php:1279 ../modules/form-widget.php:1360
+#: ../modules/form-widget.php:1425 ../modules/form-widget.php:1491
+#: ../modules/form-widget.php:1545 ../modules/form-widget.php:1663
+#: ../modules/form-widget.php:1811 ../modules/form-widget.php:1885
+#: ../modules/form-widget.php:1921 ../modules/form-widget.php:1966
+msgid "General"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:167
+msgid "Form style"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:168
+msgid "Form description"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:169
+msgid "Enable email notification"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:170
+msgid "Email address for email notification (comma separated)"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:171
+msgid "Send form entries via email"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:172
+msgid "Email address for sent entries (comma separated)"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:174
+msgid "Confirmation"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:176
+msgid "Confirmation type"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:177 ../modules/form-widget.php:1843
+#: ../modules/form-widget.php:1889
+msgid "Message"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:178
+msgid "Redirection URL"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:180
+msgid "Button"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:182
+msgid "Button text"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:183
+msgid "Button style"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:184
+msgid "Button alignment"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:185
+msgid "Button width"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:188
+msgid "Background color"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:188 ../admin/metabox/form-options.php:191
+msgid "hex, rgb or rgba. Overrides default."
+msgstr ""
+
+#: ../admin/metabox/form-options.php:191
+msgid "Text color"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:194
+msgid "Button additional classes"
+msgstr ""
+
+#: ../admin/metabox/form-options.php:196
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/metabox/form.php:109
+msgid "close"
+msgstr ""
+
+#: ../admin/metabox/form.php:111
+msgid "Filter widgets"
+msgstr ""
+
+#: ../admin/metabox/form.php:152 ../admin/metabox/form.php:156
+#: ../modules/form-widget.php:2023
+msgid "Add widget"
+msgstr ""
+
+#: ../ether/ether.php:2184
+msgid "less than a minute ago"
+msgstr ""
+
+#: ../ether/ether.php:2187
+msgid "about a minute ago"
+msgstr ""
+
+#: ../ether/ether.php:2190
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: ../ether/ether.php:2193
+msgid "about an hour ago"
+msgstr ""
+
+#: ../ether/ether.php:2196
+#, php-format
+msgid "about %s hours ago"
+msgstr ""
+
+#: ../ether/ether.php:2199
+msgid "1 day ago"
+msgstr ""
+
+#: ../ether/ether.php:2202
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: ../ether/ether.php:2845
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../ether/ether.php:2854
+#, php-format
+msgid "Tag \"%s\""
+msgstr ""
+
+#: ../ether/ether.php:2863
+#, php-format
+msgid "Author \"%s\""
+msgstr ""
+
+#: ../ether/ether.php:2869
+msgid "Error 404"
+msgstr ""
+
+#: ../ether/ether.php:2880 ../ether/ether.php:2883
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../ether/ether.php:2962
+msgid "Home"
+msgstr ""
+
+#: ../ether/ether.php:3292
+msgid "Loading..."
+msgstr ""
+
+#: ../ether/ether.php:6511 ../modules/form.php:1968
+msgid "Save"
+msgstr ""
+
+#: ../ether/ether.php:6512 ../modules/form-widget.php:1659
+msgid "Reset"
+msgstr ""
+
+#: ../ether/ether.php:7320
+msgid "Choose images"
+msgstr ""
+
+#: ../ether/ether.php:7331
+msgid "Insert images"
+msgstr ""
+
+#: ../modules/form.php:28
+msgid "Main content"
+msgstr ""
+
+#: ../modules/form.php:242
+msgid "Widget"
+msgstr ""
+
+#: ../modules/form.php:816
+msgid "Submit"
+msgstr ""
+
+#: ../modules/form.php:852
+msgid "Thank you!"
+msgstr ""
+
+#: ../modules/form.php:1013
+#, php-format
+msgid "New entry for %s form"
+msgstr ""
+
+#: ../modules/form.php:1023
+msgid " #"
+msgstr ""
+
+#: ../modules/form.php:1096 ../modules/form.php:1108 ../modules/form.php:1923
+msgid "[No value was provided by the user]"
+msgstr ""
+
+#: ../modules/form.php:1102
+msgid "Browser"
+msgstr ""
+
+#: ../modules/form.php:1102
+msgid "System"
+msgstr ""
+
+#: ../modules/form.php:1102
+msgid "Language"
+msgstr ""
+
+#: ../modules/form.php:1128
+msgid "Entry data unavaiable. Parent form was deleted."
+msgstr ""
+
+#: ../modules/form.php:1184
+msgid "This field is required"
+msgstr ""
+
+#: ../modules/form.php:1188
+#, php-format
+msgid "Minimum number of characters is %s"
+msgstr ""
+
+#: ../modules/form.php:1192
+#, php-format
+msgid "Maximum number of characters is %s"
+msgstr ""
+
+#: ../modules/form.php:1196
+msgid "Invalid email address format"
+msgstr ""
+
+#: ../modules/form.php:1200 ../modules/form.php:1256
+msgid "Unknown error"
+msgstr ""
+
+#: ../modules/form.php:1204
+msgid "This field has to be unique. Value already in use"
+msgstr ""
+
+#: ../modules/form.php:1208
+msgid "The Captcha doesn't match"
+msgstr ""
+
+#: ../modules/form.php:1212
+msgid "Invalid URL format"
+msgstr ""
+
+#: ../modules/form.php:1216
+msgid "Numeric value is required"
+msgstr ""
+
+#: ../modules/form.php:1220
+#, php-format
+msgid "Value must be greater than or equal to %s"
+msgstr ""
+
+#: ../modules/form.php:1224
+#, php-format
+msgid "Value must be less than or equal to %s"
+msgstr ""
+
+#: ../modules/form.php:1228
+#, php-format
+msgid "Passed value doesn't match required format: %s"
+msgstr ""
+
+#: ../modules/form.php:1232
+msgid "File size over the limit"
+msgstr ""
+
+#: ../modules/form.php:1236
+msgid "Partial upload"
+msgstr ""
+
+#: ../modules/form.php:1240
+msgid "No file"
+msgstr ""
+
+#: ../modules/form.php:1244
+msgid "No temporary directory"
+msgstr ""
+
+#: ../modules/form.php:1248
+msgid "Can't write to disk"
+msgstr ""
+
+#: ../modules/form.php:1252
+#, php-format
+msgid "File upload stopped by extension. Allowed file types: %s"
+msgstr ""
+
+#: ../modules/form.php:1267 ../modules/form.php:2317
+msgid "Open form in lightbox"
+msgstr ""
+
+#: ../modules/form.php:1306
+msgid "No entries yet."
+msgstr ""
+
+#: ../modules/form.php:1903
+msgid "Street"
+msgstr ""
+
+#: ../modules/form.php:1904
+msgid "Street (Line #2)"
+msgstr ""
+
+#: ../modules/form.php:1905
+msgid "City"
+msgstr ""
+
+#: ../modules/form.php:1906
+msgid "Zip / Postal code"
+msgstr ""
+
+#: ../modules/form.php:1907
+msgid "State / Province / Region"
+msgstr ""
+
+#: ../modules/form.php:1908
+msgid "Country"
+msgstr ""
+
+#: ../modules/form.php:1909 ../modules/form-widget.php:467
+#: ../modules/form-widget.php:497
+msgid "AM"
+msgstr ""
+
+#: ../modules/form.php:1910 ../modules/form-widget.php:468
+#: ../modules/form-widget.php:497
+msgid "PM"
+msgstr ""
+
+#: ../modules/form.php:1961
+msgid "Duplicate"
+msgstr ""
+
+#: ../modules/form.php:1962
+msgid "Edit"
+msgstr ""
+
+#: ../modules/form.php:1963 ../modules/form.php:2185
+#: ../modules/form-widget.php:620
+msgid "Remove"
+msgstr ""
+
+#: ../modules/form.php:1969
+msgid "Close"
+msgstr ""
+
+#: ../modules/form.php:2017
+msgid "Grid Settings"
+msgstr ""
+
+#: ../modules/form.php:2020
+msgid "Columns"
+msgstr ""
+
+#: ../modules/form.php:2021
+msgid "Rows"
+msgstr ""
+
+#: ../modules/form.php:2021
+msgid ""
+"Row count applies only if element is a slider. If you want to limit element "
+"count for non slider elements set a proper 'Count' value if available or "
+"limit the amount of included elements"
+msgstr ""
+
+#: ../modules/form.php:2023
+msgid "Disable spacing"
+msgstr ""
+
+#: ../modules/form.php:2023
+msgid ""
+"Most useful for galleries with images/videos where you don't want spacing "
+"between elements to occur"
+msgstr ""
+
+#: ../modules/form.php:2035 ../modules/form-widget.php:1656
+msgid "Theme default"
+msgstr ""
+
+#: ../modules/form.php:2036 ../modules/form-widget.php:1657
+msgid "Ether frame 1"
+msgstr ""
+
+#: ../modules/form.php:2037 ../modules/form-widget.php:1658
+msgid "Ether frame 2"
+msgstr ""
+
+#: ../modules/form.php:2042
+msgid "Short (200px)"
+msgstr ""
+
+#: ../modules/form.php:2043
+msgid "Medium (300px)"
+msgstr ""
+
+#: ../modules/form.php:2044
+msgid "Tall (400px)"
+msgstr ""
+
+#: ../modules/form.php:2045
+msgid "Constrain (max 400px)"
+msgstr ""
+
+#: ../modules/form.php:2051
+msgid "Stretch X"
+msgstr ""
+
+#: ../modules/form.php:2052
+msgid "Stretch Y"
+msgstr ""
+
+#: ../modules/form.php:2053
+msgid "Fit"
+msgstr ""
+
+#: ../modules/form.php:2054
+msgid "Fill"
+msgstr ""
+
+#: ../modules/form.php:2059
+#, php-format
+msgid "50%%"
+msgstr ""
+
+#: ../modules/form.php:2060
+#, php-format
+msgid "75%%"
+msgstr ""
+
+#: ../modules/form.php:2061
+#, php-format
+msgid "100%%"
+msgstr ""
+
+#: ../modules/form.php:2062
+#, php-format
+msgid "150%%"
+msgstr ""
+
+#: ../modules/form.php:2063
+#, php-format
+msgid "200%%"
+msgstr ""
+
+#: ../modules/form.php:2070
+msgid "Elements Height"
+msgstr ""
+
+#: ../modules/form.php:2070
+msgid ""
+"Default: Does nothing. Constrain: Constrains element container size ratio to "
+"1:1. If you want to constrain images size instead, use crop width/height "
+"fields below"
+msgstr ""
+
+#: ../modules/form.php:2071
+msgid "Constrain Ratio"
+msgstr ""
+
+#: ../modules/form.php:2071
+msgid "Height to width ratio for constrained galleries."
+msgstr ""
+
+#: ../modules/form.php:2074 ../modules/form-widget.php:1666
+msgid "Frame Style"
+msgstr ""
+
+#: ../modules/form.php:2079
+msgid "Image mode"
+msgstr ""
+
+#: ../modules/form.php:2079
+msgid ""
+"Default: No image manipulations. Fit: Images will be scaled to fit whole "
+"available space. Stretch: Stretches images horizontally/vertically. Fit: "
+"Fits image within container - will usually leave out blank spaces"
+msgstr ""
+
+#: ../modules/form.php:2082
+msgid "Disable lightbox"
+msgstr ""
+
+#: ../modules/form.php:2085
+msgid "Enable titles"
+msgstr ""
+
+#: ../modules/form.php:2098
+msgid "Image width"
+msgstr ""
+
+#: ../modules/form.php:2098 ../modules/form.php:2101
+msgid "\"0\" or blank field skips scaling through image width attribute."
+msgstr ""
+
+#: ../modules/form.php:2101
+msgid "Image height"
+msgstr ""
+
+#: ../modules/form.php:2106
+msgid "Image crop width"
+msgstr ""
+
+#: ../modules/form.php:2106 ../modules/form.php:2109
+msgid ""
+"\"0\" or blank field skips scaling/croping image. This function will "
+"generate thumbnail."
+msgstr ""
+
+#: ../modules/form.php:2109
+msgid "Image crop height"
+msgstr ""
+
+#: ../modules/form.php:2130
+msgid "Widget Alignment"
+msgstr ""
+
+#: ../modules/form.php:2133
+msgid "Widget width"
+msgstr ""
+
+#: ../modules/form.php:2136
+msgid "Widget height"
+msgstr ""
+
+#: ../modules/form.php:2152
+msgid "Error Messages"
+msgstr ""
+
+#: ../modules/form.php:2154
+msgid "Filling the fields below will overwrite default error messages"
+msgstr ""
+
+#: ../modules/form.php:2174
+msgid "Is"
+msgstr ""
+
+#: ../modules/form.php:2175
+msgid "Is not"
+msgstr ""
+
+#: ../modules/form.php:2180
+msgid "Rule"
+msgstr ""
+
+#: ../modules/form.php:2195
+msgid "Show"
+msgstr ""
+
+#: ../modules/form.php:2196
+msgid "Hide"
+msgstr ""
+
+#: ../modules/form.php:2201
+msgid "All"
+msgstr ""
+
+#: ../modules/form.php:2202
+msgid "Any"
+msgstr ""
+
+#: ../modules/form.php:2220
+msgid "Conditional Logic"
+msgstr ""
+
+#: ../modules/form.php:2224
+msgid "Action"
+msgstr ""
+
+#: ../modules/form.php:2228
+msgid "Condition"
+msgstr ""
+
+#: ../modules/form.php:2235 ../modules/form.php:2244
+msgid "Add rule"
+msgstr ""
+
+#: ../modules/form.php:2260
+msgid "Ether form"
+msgstr ""
+
+#: ../modules/form.php:2302 ../modules/form.php:2342
+msgid "Ether Form"
+msgstr ""
+
+#: ../modules/form.php:2303
+msgid "Add form created with Ether Forms plugin"
+msgstr ""
+
+#: ../modules/form.php:2343
+msgid "Open in popup"
+msgstr ""
+
+#: ../modules/form.php:2346
+msgid "Popup link title"
+msgstr ""
+
+#: ../modules/constants.php:7
+msgid "Afghanistan"
+msgstr ""
+
+#: ../modules/constants.php:8
+msgid "Albania"
+msgstr ""
+
+#: ../modules/constants.php:9
+msgid "Algeria"
+msgstr ""
+
+#: ../modules/constants.php:10
+msgid "American Samoa"
+msgstr ""
+
+#: ../modules/constants.php:11
+msgid "Andorra"
+msgstr ""
+
+#: ../modules/constants.php:12
+msgid "Angola"
+msgstr ""
+
+#: ../modules/constants.php:13
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../modules/constants.php:14
+msgid "Argentina"
+msgstr ""
+
+#: ../modules/constants.php:15
+msgid "Armenia"
+msgstr ""
+
+#: ../modules/constants.php:16 ../modules/constants.php:286
+msgid "Australia"
+msgstr ""
+
+#: ../modules/constants.php:17
+msgid "Austria"
+msgstr ""
+
+#: ../modules/constants.php:18
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../modules/constants.php:19
+msgid "Bahamas"
+msgstr ""
+
+#: ../modules/constants.php:20
+msgid "Bahrain"
+msgstr ""
+
+#: ../modules/constants.php:21
+msgid "Bangladesh"
+msgstr ""
+
+#: ../modules/constants.php:22
+msgid "Barbados"
+msgstr ""
+
+#: ../modules/constants.php:23
+msgid "Belarus"
+msgstr ""
+
+#: ../modules/constants.php:24
+msgid "Belgium"
+msgstr ""
+
+#: ../modules/constants.php:25
+msgid "Belize"
+msgstr ""
+
+#: ../modules/constants.php:26
+msgid "Benin"
+msgstr ""
+
+#: ../modules/constants.php:27
+msgid "Bermuda"
+msgstr ""
+
+#: ../modules/constants.php:28
+msgid "Bhutan"
+msgstr ""
+
+#: ../modules/constants.php:29
+msgid "Bolivia"
+msgstr ""
+
+#: ../modules/constants.php:30
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../modules/constants.php:31
+msgid "Botswana"
+msgstr ""
+
+#: ../modules/constants.php:32
+msgid "Brazil"
+msgstr ""
+
+#: ../modules/constants.php:33
+msgid "Brunei"
+msgstr ""
+
+#: ../modules/constants.php:34
+msgid "Bulgaria"
+msgstr ""
+
+#: ../modules/constants.php:35
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../modules/constants.php:36
+msgid "Burundi"
+msgstr ""
+
+#: ../modules/constants.php:37
+msgid "Cambodia"
+msgstr ""
+
+#: ../modules/constants.php:38
+msgid "Cameroon"
+msgstr ""
+
+#: ../modules/constants.php:39
+msgid "Canada"
+msgstr ""
+
+#: ../modules/constants.php:40
+msgid "Cape Verde"
+msgstr ""
+
+#: ../modules/constants.php:41
+msgid "Central African Republic"
+msgstr ""
+
+#: ../modules/constants.php:42
+msgid "Chad"
+msgstr ""
+
+#: ../modules/constants.php:43
+msgid "Chile"
+msgstr ""
+
+#: ../modules/constants.php:44
+msgid "China"
+msgstr ""
+
+#: ../modules/constants.php:45
+msgid "Colombia"
+msgstr ""
+
+#: ../modules/constants.php:46
+msgid "Comoros"
+msgstr ""
+
+#: ../modules/constants.php:47
+msgid "Congo"
+msgstr ""
+
+#: ../modules/constants.php:48
+msgid "Costa Rica"
+msgstr ""
+
+#: ../modules/constants.php:49
+msgid "C&ocirc;te d'Ivoire"
+msgstr ""
+
+#: ../modules/constants.php:50
+msgid "Croatia"
+msgstr ""
+
+#: ../modules/constants.php:51
+msgid "Cuba"
+msgstr ""
+
+#: ../modules/constants.php:52
+msgid "Cyprus"
+msgstr ""
+
+#: ../modules/constants.php:53
+msgid "Czech Republic"
+msgstr ""
+
+#: ../modules/constants.php:54
+msgid "Denmark"
+msgstr ""
+
+#: ../modules/constants.php:55
+msgid "Djibouti"
+msgstr ""
+
+#: ../modules/constants.php:56
+msgid "Dominica"
+msgstr ""
+
+#: ../modules/constants.php:57
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../modules/constants.php:58
+msgid "East Timor"
+msgstr ""
+
+#: ../modules/constants.php:59
+msgid "Ecuador"
+msgstr ""
+
+#: ../modules/constants.php:60
+msgid "Egypt"
+msgstr ""
+
+#: ../modules/constants.php:61
+msgid "El Salvador"
+msgstr ""
+
+#: ../modules/constants.php:62
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../modules/constants.php:63
+msgid "Eritrea"
+msgstr ""
+
+#: ../modules/constants.php:64
+msgid "Estonia"
+msgstr ""
+
+#: ../modules/constants.php:65
+msgid "Ethiopia"
+msgstr ""
+
+#: ../modules/constants.php:66
+msgid "Fiji"
+msgstr ""
+
+#: ../modules/constants.php:67
+msgid "Finland"
+msgstr ""
+
+#: ../modules/constants.php:68
+msgid "France"
+msgstr ""
+
+#: ../modules/constants.php:69
+msgid "Gabon"
+msgstr ""
+
+#: ../modules/constants.php:70
+msgid "Gambia"
+msgstr ""
+
+#: ../modules/constants.php:71 ../modules/constants.php:235
+msgid "Georgia"
+msgstr ""
+
+#: ../modules/constants.php:72
+msgid "Germany"
+msgstr ""
+
+#: ../modules/constants.php:73
+msgid "Ghana"
+msgstr ""
+
+#: ../modules/constants.php:74
+msgid "Greece"
+msgstr ""
+
+#: ../modules/constants.php:75
+msgid "Greenland"
+msgstr ""
+
+#: ../modules/constants.php:76
+msgid "Grenada"
+msgstr ""
+
+#: ../modules/constants.php:77
+msgid "Guam"
+msgstr ""
+
+#: ../modules/constants.php:78
+msgid "Guatemala"
+msgstr ""
+
+#: ../modules/constants.php:79
+msgid "Guinea"
+msgstr ""
+
+#: ../modules/constants.php:80
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../modules/constants.php:81
+msgid "Guyana"
+msgstr ""
+
+#: ../modules/constants.php:82
+msgid "Haiti"
+msgstr ""
+
+#: ../modules/constants.php:83
+msgid "Honduras"
+msgstr ""
+
+#: ../modules/constants.php:84
+msgid "Hong Kong"
+msgstr ""
+
+#: ../modules/constants.php:85
+msgid "Hungary"
+msgstr ""
+
+#: ../modules/constants.php:86
+msgid "Iceland"
+msgstr ""
+
+#: ../modules/constants.php:87
+msgid "India"
+msgstr ""
+
+#: ../modules/constants.php:88
+msgid "Indonesia"
+msgstr ""
+
+#: ../modules/constants.php:89
+msgid "Iran"
+msgstr ""
+
+#: ../modules/constants.php:90
+msgid "Iraq"
+msgstr ""
+
+#: ../modules/constants.php:91
+msgid "Ireland"
+msgstr ""
+
+#: ../modules/constants.php:92
+msgid "Israel"
+msgstr ""
+
+#: ../modules/constants.php:93
+msgid "Italy"
+msgstr ""
+
+#: ../modules/constants.php:94
+msgid "Jamaica"
+msgstr ""
+
+#: ../modules/constants.php:95
+msgid "Japan"
+msgstr ""
+
+#: ../modules/constants.php:96
+msgid "Jordan"
+msgstr ""
+
+#: ../modules/constants.php:97
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../modules/constants.php:98
+msgid "Kenya"
+msgstr ""
+
+#: ../modules/constants.php:99
+msgid "Kiribati"
+msgstr ""
+
+#: ../modules/constants.php:100
+msgid "North Korea"
+msgstr ""
+
+#: ../modules/constants.php:101
+msgid "South Korea"
+msgstr ""
+
+#: ../modules/constants.php:102
+msgid "Kuwait"
+msgstr ""
+
+#: ../modules/constants.php:103
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../modules/constants.php:104
+msgid "Laos"
+msgstr ""
+
+#: ../modules/constants.php:105
+msgid "Latvia"
+msgstr ""
+
+#: ../modules/constants.php:106
+msgid "Lebanon"
+msgstr ""
+
+#: ../modules/constants.php:107
+msgid "Lesotho"
+msgstr ""
+
+#: ../modules/constants.php:108
+msgid "Liberia"
+msgstr ""
+
+#: ../modules/constants.php:109
+msgid "Libya"
+msgstr ""
+
+#: ../modules/constants.php:110
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../modules/constants.php:111
+msgid "Lithuania"
+msgstr ""
+
+#: ../modules/constants.php:112
+msgid "Luxembourg"
+msgstr ""
+
+#: ../modules/constants.php:113
+msgid "Macedonia"
+msgstr ""
+
+#: ../modules/constants.php:114
+msgid "Madagascar"
+msgstr ""
+
+#: ../modules/constants.php:115
+msgid "Malawi"
+msgstr ""
+
+#: ../modules/constants.php:116
+msgid "Malaysia"
+msgstr ""
+
+#: ../modules/constants.php:117
+msgid "Maldives"
+msgstr ""
+
+#: ../modules/constants.php:118
+msgid "Mali"
+msgstr ""
+
+#: ../modules/constants.php:119
+msgid "Malta"
+msgstr ""
+
+#: ../modules/constants.php:120
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../modules/constants.php:121
+msgid "Mauritania"
+msgstr ""
+
+#: ../modules/constants.php:122
+msgid "Mauritius"
+msgstr ""
+
+#: ../modules/constants.php:123
+msgid "Mexico"
+msgstr ""
+
+#: ../modules/constants.php:124
+msgid "Micronesia"
+msgstr ""
+
+#: ../modules/constants.php:125
+msgid "Moldova"
+msgstr ""
+
+#: ../modules/constants.php:126
+msgid "Monaco"
+msgstr ""
+
+#: ../modules/constants.php:127
+msgid "Mongolia"
+msgstr ""
+
+#: ../modules/constants.php:128
+msgid "Montenegro"
+msgstr ""
+
+#: ../modules/constants.php:129
+msgid "Morocco"
+msgstr ""
+
+#: ../modules/constants.php:130
+msgid "Mozambique"
+msgstr ""
+
+#: ../modules/constants.php:131
+msgid "Myanmar"
+msgstr ""
+
+#: ../modules/constants.php:132
+msgid "Namibia"
+msgstr ""
+
+#: ../modules/constants.php:133
+msgid "Nauru"
+msgstr ""
+
+#: ../modules/constants.php:134
+msgid "Nepal"
+msgstr ""
+
+#: ../modules/constants.php:135
+msgid "Netherlands"
+msgstr ""
+
+#: ../modules/constants.php:136
+msgid "New Zealand"
+msgstr ""
+
+#: ../modules/constants.php:137
+msgid "Nicaragua"
+msgstr ""
+
+#: ../modules/constants.php:138
+msgid "Niger"
+msgstr ""
+
+#: ../modules/constants.php:139
+msgid "Nigeria"
+msgstr ""
+
+#: ../modules/constants.php:140
+msgid "Norway"
+msgstr ""
+
+#: ../modules/constants.php:141
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../modules/constants.php:142
+msgid "Oman"
+msgstr ""
+
+#: ../modules/constants.php:143
+msgid "Pakistan"
+msgstr ""
+
+#: ../modules/constants.php:144
+msgid "Palau"
+msgstr ""
+
+#: ../modules/constants.php:145
+msgid "Palestine"
+msgstr ""
+
+#: ../modules/constants.php:146
+msgid "Panama"
+msgstr ""
+
+#: ../modules/constants.php:147
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../modules/constants.php:148
+msgid "Paraguay"
+msgstr ""
+
+#: ../modules/constants.php:149
+msgid "Peru"
+msgstr ""
+
+#: ../modules/constants.php:150
+msgid "Philippines"
+msgstr ""
+
+#: ../modules/constants.php:151
+msgid "Poland"
+msgstr ""
+
+#: ../modules/constants.php:152
+msgid "Portugal"
+msgstr ""
+
+#: ../modules/constants.php:153
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../modules/constants.php:154
+msgid "Qatar"
+msgstr ""
+
+#: ../modules/constants.php:155
+msgid "Romania"
+msgstr ""
+
+#: ../modules/constants.php:156
+msgid "Russia"
+msgstr ""
+
+#: ../modules/constants.php:157
+msgid "Rwanda"
+msgstr ""
+
+#: ../modules/constants.php:158
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../modules/constants.php:159
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../modules/constants.php:160
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../modules/constants.php:161
+msgid "Samoa"
+msgstr ""
+
+#: ../modules/constants.php:162
+msgid "San Marino"
+msgstr ""
+
+#: ../modules/constants.php:163
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: ../modules/constants.php:164
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../modules/constants.php:165
+msgid "Senegal"
+msgstr ""
+
+#: ../modules/constants.php:166
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: ../modules/constants.php:167
+msgid "Seychelles"
+msgstr ""
+
+#: ../modules/constants.php:168
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../modules/constants.php:169
+msgid "Singapore"
+msgstr ""
+
+#: ../modules/constants.php:170
+msgid "Slovakia"
+msgstr ""
+
+#: ../modules/constants.php:171
+msgid "Slovenia"
+msgstr ""
+
+#: ../modules/constants.php:172
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../modules/constants.php:173
+msgid "Somalia"
+msgstr ""
+
+#: ../modules/constants.php:174
+msgid "South Africa"
+msgstr ""
+
+#: ../modules/constants.php:175
+msgid "Spain"
+msgstr ""
+
+#: ../modules/constants.php:176
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../modules/constants.php:177
+msgid "Sudan"
+msgstr ""
+
+#: ../modules/constants.php:178
+msgid "Suriname"
+msgstr ""
+
+#: ../modules/constants.php:179
+msgid "Swaziland"
+msgstr ""
+
+#: ../modules/constants.php:180
+msgid "Sweden"
+msgstr ""
+
+#: ../modules/constants.php:181
+msgid "Switzerland"
+msgstr ""
+
+#: ../modules/constants.php:182
+msgid "Syria"
+msgstr ""
+
+#: ../modules/constants.php:183
+msgid "Taiwan"
+msgstr ""
+
+#: ../modules/constants.php:184
+msgid "Tajikistan"
+msgstr ""
+
+#: ../modules/constants.php:185
+msgid "Tanzania"
+msgstr ""
+
+#: ../modules/constants.php:186
+msgid "Thailand"
+msgstr ""
+
+#: ../modules/constants.php:187
+msgid "Togo"
+msgstr ""
+
+#: ../modules/constants.php:188
+msgid "Tonga"
+msgstr ""
+
+#: ../modules/constants.php:189
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../modules/constants.php:190
+msgid "Tunisia"
+msgstr ""
+
+#: ../modules/constants.php:191
+msgid "Turkey"
+msgstr ""
+
+#: ../modules/constants.php:192
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../modules/constants.php:193
+msgid "Tuvalu"
+msgstr ""
+
+#: ../modules/constants.php:194
+msgid "Uganda"
+msgstr ""
+
+#: ../modules/constants.php:195
+msgid "Ukraine"
+msgstr ""
+
+#: ../modules/constants.php:196
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../modules/constants.php:197
+msgid "United Kingdom"
+msgstr ""
+
+#: ../modules/constants.php:198
+msgid "United States"
+msgstr ""
+
+#: ../modules/constants.php:199
+msgid "Uruguay"
+msgstr ""
+
+#: ../modules/constants.php:200
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../modules/constants.php:201
+msgid "Vanuatu"
+msgstr ""
+
+#: ../modules/constants.php:202
+msgid "Venezuela"
+msgstr ""
+
+#: ../modules/constants.php:203
+msgid "Vietnam"
+msgstr ""
+
+#: ../modules/constants.php:204
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: ../modules/constants.php:205
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: ../modules/constants.php:206
+msgid "Yemen"
+msgstr ""
+
+#: ../modules/constants.php:207
+msgid "Zambia"
+msgstr ""
+
+#: ../modules/constants.php:208
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../modules/constants.php:216
+msgid "Male"
+msgstr ""
+
+#: ../modules/constants.php:217
+msgid "Female"
+msgstr ""
+
+#: ../modules/constants.php:225
+msgid "Alabama"
+msgstr ""
+
+#: ../modules/constants.php:226
+msgid "Alaska"
+msgstr ""
+
+#: ../modules/constants.php:227
+msgid "Arizona"
+msgstr ""
+
+#: ../modules/constants.php:228
+msgid "Arkansas"
+msgstr ""
+
+#: ../modules/constants.php:229
+msgid "California"
+msgstr ""
+
+#: ../modules/constants.php:230
+msgid "Colorado"
+msgstr ""
+
+#: ../modules/constants.php:231
+msgid "Connecticut"
+msgstr ""
+
+#: ../modules/constants.php:232
+msgid "Delaware"
+msgstr ""
+
+#: ../modules/constants.php:233
+msgid "District of Columbia"
+msgstr ""
+
+#: ../modules/constants.php:234
+msgid "Florida"
+msgstr ""
+
+#: ../modules/constants.php:236
+msgid "Hawaii"
+msgstr ""
+
+#: ../modules/constants.php:237
+msgid "Idaho"
+msgstr ""
+
+#: ../modules/constants.php:238
+msgid "Illinois"
+msgstr ""
+
+#: ../modules/constants.php:239
+msgid "Indiana"
+msgstr ""
+
+#: ../modules/constants.php:240
+msgid "Iowa"
+msgstr ""
+
+#: ../modules/constants.php:241
+msgid "Kansas"
+msgstr ""
+
+#: ../modules/constants.php:242
+msgid "Kentucky"
+msgstr ""
+
+#: ../modules/constants.php:243
+msgid "Louisiana"
+msgstr ""
+
+#: ../modules/constants.php:244
+msgid "Maine"
+msgstr ""
+
+#: ../modules/constants.php:245
+msgid "Maryland"
+msgstr ""
+
+#: ../modules/constants.php:246
+msgid "Massachusetts"
+msgstr ""
+
+#: ../modules/constants.php:247
+msgid "Michigan"
+msgstr ""
+
+#: ../modules/constants.php:248
+msgid "Minnesota"
+msgstr ""
+
+#: ../modules/constants.php:249
+msgid "Mississippi"
+msgstr ""
+
+#: ../modules/constants.php:250
+msgid "Missouri"
+msgstr ""
+
+#: ../modules/constants.php:251
+msgid "Montana"
+msgstr ""
+
+#: ../modules/constants.php:252
+msgid "Nebraska"
+msgstr ""
+
+#: ../modules/constants.php:253
+msgid "Nevada"
+msgstr ""
+
+#: ../modules/constants.php:254
+msgid "New Hampshire"
+msgstr ""
+
+#: ../modules/constants.php:255
+msgid "New Jersey"
+msgstr ""
+
+#: ../modules/constants.php:256
+msgid "New Mexico"
+msgstr ""
+
+#: ../modules/constants.php:257
+msgid "New York"
+msgstr ""
+
+#: ../modules/constants.php:258
+msgid "North Carolina"
+msgstr ""
+
+#: ../modules/constants.php:259
+msgid "North Dakota"
+msgstr ""
+
+#: ../modules/constants.php:260
+msgid "Ohio"
+msgstr ""
+
+#: ../modules/constants.php:261
+msgid "Oklahoma"
+msgstr ""
+
+#: ../modules/constants.php:262
+msgid "Oregon"
+msgstr ""
+
+#: ../modules/constants.php:263
+msgid "Pennsylvania"
+msgstr ""
+
+#: ../modules/constants.php:264
+msgid "Rhode Island"
+msgstr ""
+
+#: ../modules/constants.php:265
+msgid "South Carolina"
+msgstr ""
+
+#: ../modules/constants.php:266
+msgid "South Dakota"
+msgstr ""
+
+#: ../modules/constants.php:267
+msgid "Tennessee"
+msgstr ""
+
+#: ../modules/constants.php:268
+msgid "Texas"
+msgstr ""
+
+#: ../modules/constants.php:269
+msgid "Utah"
+msgstr ""
+
+#: ../modules/constants.php:270
+msgid "Vermont"
+msgstr ""
+
+#: ../modules/constants.php:271
+msgid "Virginia"
+msgstr ""
+
+#: ../modules/constants.php:272
+msgid "Washington"
+msgstr ""
+
+#: ../modules/constants.php:273
+msgid "West Virginia"
+msgstr ""
+
+#: ../modules/constants.php:274
+msgid "Wisconsin"
+msgstr ""
+
+#: ../modules/constants.php:275
+msgid "Wyoming"
+msgstr ""
+
+#: ../modules/constants.php:283
+msgid "Africa"
+msgstr ""
+
+#: ../modules/constants.php:284
+msgid "Antarctica"
+msgstr ""
+
+#: ../modules/constants.php:285
+msgid "Asia"
+msgstr ""
+
+#: ../modules/constants.php:287
+msgid "Europe"
+msgstr ""
+
+#: ../modules/constants.php:288
+msgid "North America"
+msgstr ""
+
+#: ../modules/constants.php:289
+msgid "South America"
+msgstr ""
+
+#: ../modules/constants.php:297
+msgid "Sunday"
+msgstr ""
+
+#: ../modules/constants.php:298
+msgid "Monday"
+msgstr ""
+
+#: ../modules/constants.php:299
+msgid "Tuesday"
+msgstr ""
+
+#: ../modules/constants.php:300
+msgid "Wednesday"
+msgstr ""
+
+#: ../modules/constants.php:301
+msgid "Thursday"
+msgstr ""
+
+#: ../modules/constants.php:302
+msgid "Friday"
+msgstr ""
+
+#: ../modules/constants.php:303
+msgid "Saturday"
+msgstr ""
+
+#: ../modules/constants.php:311
+msgid "January"
+msgstr ""
+
+#: ../modules/constants.php:312
+msgid "February"
+msgstr ""
+
+#: ../modules/constants.php:313
+msgid "March"
+msgstr ""
+
+#: ../modules/constants.php:314
+msgid "April"
+msgstr ""
+
+#: ../modules/constants.php:315
+msgid "May"
+msgstr ""
+
+#: ../modules/constants.php:316
+msgid "June"
+msgstr ""
+
+#: ../modules/constants.php:317
+msgid "July"
+msgstr ""
+
+#: ../modules/constants.php:318
+msgid "August"
+msgstr ""
+
+#: ../modules/constants.php:319
+msgid "September"
+msgstr ""
+
+#: ../modules/constants.php:320
+msgid "October"
+msgstr ""
+
+#: ../modules/constants.php:321
+msgid "November"
+msgstr ""
+
+#: ../modules/constants.php:322
+msgid "December"
+msgstr ""
+
+#: ../modules/form-widget.php:11 ../modules/form-widget.php:12
+msgid "Text input"
+msgstr ""
+
+#: ../modules/form-widget.php:25 ../modules/form-widget.php:94
+#: ../modules/form-widget.php:203 ../modules/form-widget.php:305
+#: ../modules/form-widget.php:364 ../modules/form-widget.php:516
+#: ../modules/form-widget.php:553 ../modules/form-widget.php:585
+#: ../modules/form-widget.php:817 ../modules/form-widget.php:987
+#: ../modules/form-widget.php:1057 ../modules/form-widget.php:1103
+#: ../modules/form-widget.php:1172 ../modules/form-widget.php:1283
+msgid "Field label"
+msgstr ""
+
+#: ../modules/form-widget.php:28 ../modules/form-widget.php:311
+#: ../modules/form-widget.php:370 ../modules/form-widget.php:1106
+msgid "Max characters"
+msgstr ""
+
+#: ../modules/form-widget.php:31 ../modules/form-widget.php:100
+#: ../modules/form-widget.php:206 ../modules/form-widget.php:314
+#: ../modules/form-widget.php:373 ../modules/form-widget.php:588
+#: ../modules/form-widget.php:820 ../modules/form-widget.php:990
+#: ../modules/form-widget.php:1060 ../modules/form-widget.php:1109
+msgid "Required"
+msgstr ""
+
+#: ../modules/form-widget.php:34 ../modules/form-widget.php:209
+#: ../modules/form-widget.php:317 ../modules/form-widget.php:376
+msgid "Unique value"
+msgstr ""
+
+#: ../modules/form-widget.php:34 ../modules/form-widget.php:209
+#: ../modules/form-widget.php:317 ../modules/form-widget.php:376
+msgid ""
+"Unique value means duplicate entries in different fields will cause a form "
+"to not validate"
+msgstr ""
+
+#: ../modules/form-widget.php:37 ../modules/form-widget.php:103
+#: ../modules/form-widget.php:218 ../modules/form-widget.php:320
+#: ../modules/form-widget.php:379 ../modules/form-widget.php:519
+#: ../modules/form-widget.php:591 ../modules/form-widget.php:823
+#: ../modules/form-widget.php:993 ../modules/form-widget.php:1063
+#: ../modules/form-widget.php:1112 ../modules/form-widget.php:1175
+#: ../modules/form-widget.php:1292
+msgid "Description"
+msgstr ""
+
+#: ../modules/form-widget.php:37 ../modules/form-widget.php:103
+#: ../modules/form-widget.php:218 ../modules/form-widget.php:320
+#: ../modules/form-widget.php:379 ../modules/form-widget.php:519
+#: ../modules/form-widget.php:591 ../modules/form-widget.php:823
+#: ../modules/form-widget.php:993 ../modules/form-widget.php:1063
+#: ../modules/form-widget.php:1112 ../modules/form-widget.php:1292
+msgid ""
+"Field description can provide some clues for a user filling in a specific "
+"input"
+msgstr ""
+
+#: ../modules/form-widget.php:41 ../modules/form-widget.php:107
+#: ../modules/form-widget.php:222 ../modules/form-widget.php:324
+#: ../modules/form-widget.php:383 ../modules/form-widget.php:522
+#: ../modules/form-widget.php:595 ../modules/form-widget.php:828
+#: ../modules/form-widget.php:998 ../modules/form-widget.php:1068
+#: ../modules/form-widget.php:1116 ../modules/form-widget.php:1178
+#: ../modules/form-widget.php:1295 ../modules/form-widget.php:1700
+#: ../modules/form-widget.php:1827 ../modules/form-widget.php:1891
+#: ../modules/form-widget.php:1972 ../modules/form-widget.php:2035
+msgid "Misc"
+msgstr ""
+
+#: ../modules/form-widget.php:43 ../modules/form-widget.php:109
+#: ../modules/form-widget.php:224 ../modules/form-widget.php:326
+#: ../modules/form-widget.php:385 ../modules/form-widget.php:524
+#: ../modules/form-widget.php:597 ../modules/form-widget.php:830
+#: ../modules/form-widget.php:1000 ../modules/form-widget.php:1070
+#: ../modules/form-widget.php:1118 ../modules/form-widget.php:1180
+#: ../modules/form-widget.php:1297
+msgid "Admin field label"
+msgstr ""
+
+#: ../modules/form-widget.php:44 ../modules/form-widget.php:110
+#: ../modules/form-widget.php:225 ../modules/form-widget.php:327
+#: ../modules/form-widget.php:386 ../modules/form-widget.php:525
+#: ../modules/form-widget.php:598 ../modules/form-widget.php:831
+#: ../modules/form-widget.php:1001 ../modules/form-widget.php:1071
+#: ../modules/form-widget.php:1119 ../modules/form-widget.php:1181
+#: ../modules/form-widget.php:1298 ../modules/form-widget.php:1550
+#: ../modules/form-widget.php:1702 ../modules/form-widget.php:1829
+#: ../modules/form-widget.php:1893 ../modules/form-widget.php:1974
+msgid "Additional classes"
+msgstr ""
+
+#: ../modules/form-widget.php:45 ../modules/form-widget.php:111
+#: ../modules/form-widget.php:226 ../modules/form-widget.php:328
+#: ../modules/form-widget.php:387 ../modules/form-widget.php:526
+#: ../modules/form-widget.php:599 ../modules/form-widget.php:832
+#: ../modules/form-widget.php:1002 ../modules/form-widget.php:1072
+#: ../modules/form-widget.php:1120 ../modules/form-widget.php:1182
+#: ../modules/form-widget.php:1299 ../modules/form-widget.php:1551
+#: ../modules/form-widget.php:1703 ../modules/form-widget.php:1830
+#: ../modules/form-widget.php:1894 ../modules/form-widget.php:1975
+msgid "Widget label"
+msgstr ""
+
+#: ../modules/form-widget.php:45 ../modules/form-widget.php:111
+#: ../modules/form-widget.php:226 ../modules/form-widget.php:328
+#: ../modules/form-widget.php:387 ../modules/form-widget.php:526
+#: ../modules/form-widget.php:599 ../modules/form-widget.php:832
+#: ../modules/form-widget.php:1002 ../modules/form-widget.php:1072
+#: ../modules/form-widget.php:1120 ../modules/form-widget.php:1182
+#: ../modules/form-widget.php:1299 ../modules/form-widget.php:1551
+#: ../modules/form-widget.php:1703 ../modules/form-widget.php:1830
+#: ../modules/form-widget.php:1894 ../modules/form-widget.php:1975
+msgid ""
+"Custom widget label which will be shown instead of widget name in the admin "
+"view"
+msgstr ""
+
+#: ../modules/form-widget.php:68 ../modules/form-widget.php:69
+msgid "File Uploader"
+msgstr ""
+
+#: ../modules/form-widget.php:97
+msgid "File types"
+msgstr ""
+
+#: ../modules/form-widget.php:97
+msgid "Comma separated allowed file extensions (e.g. \"jpg, png, zip\")"
+msgstr ""
+
+#: ../modules/form-widget.php:125 ../modules/form-widget.php:135
+#: ../modules/form-widget.php:149
+msgid "Email"
+msgstr ""
+
+#: ../modules/form-widget.php:126
+msgid "Email Address"
+msgstr ""
+
+#: ../modules/form-widget.php:167
+msgid "Numeric"
+msgstr ""
+
+#: ../modules/form-widget.php:168
+msgid "Numeric text field"
+msgstr ""
+
+#: ../modules/form-widget.php:212
+msgid "Min numeric value"
+msgstr ""
+
+#: ../modules/form-widget.php:215
+msgid "Max numeric value"
+msgstr ""
+
+#: ../modules/form-widget.php:240 ../modules/form-widget.php:250
+#: ../modules/form-widget.php:264 ../modules/form-widget.php:1970
+msgid "URL"
+msgstr ""
+
+#: ../modules/form-widget.php:241
+msgid "Address url"
+msgstr ""
+
+#: ../modules/form-widget.php:282 ../modules/form-widget.php:283
+#: ../modules/form-widget.php:297
+msgid "Phone number"
+msgstr ""
+
+#: ../modules/form-widget.php:308 ../modules/form-widget.php:367
+msgid "Format"
+msgstr ""
+
+#: ../modules/form-widget.php:308 ../modules/form-widget.php:367
+msgid ""
+"\"X\" stands for 0-9 digit. \"A\" stands for alphanumeric characters. Spaces "
+"are always optional. brackets () make group optional. Example: Input of \"00 "
+"AB\" will validate against \"AA XX\" format.  "
+msgstr ""
+
+#: ../modules/form-widget.php:341 ../modules/form-widget.php:342
+#: ../modules/form-widget.php:356
+msgid "Zip code"
+msgstr ""
+
+#: ../modules/form-widget.php:459 ../modules/form-widget.php:460
+#: ../modules/form-widget.php:507
+msgid "Time"
+msgstr ""
+
+#: ../modules/form-widget.php:539 ../modules/form-widget.php:540
+msgid "Hidden input"
+msgstr ""
+
+#: ../modules/form-widget.php:554
+msgid "Field value"
+msgstr ""
+
+#: ../modules/form-widget.php:567 ../modules/form-widget.php:568
+msgid "Checkbox"
+msgstr ""
+
+#: ../modules/form-widget.php:614
+msgid "Item"
+msgstr ""
+
+#: ../modules/form-widget.php:616
+msgid "Option label"
+msgstr ""
+
+#: ../modules/form-widget.php:617
+msgid "Option value"
+msgstr ""
+
+#: ../modules/form-widget.php:617
+msgid "Same as label if left blank"
+msgstr ""
+
+#: ../modules/form-widget.php:630
+msgid "Option 1"
+msgstr ""
+
+#: ../modules/form-widget.php:630
+msgid "Option 2"
+msgstr ""
+
+#: ../modules/form-widget.php:630
+msgid "Option 3"
+msgstr ""
+
+#: ../modules/form-widget.php:634 ../modules/form-widget.php:1741
+#: ../modules/form-widget.php:1806
+msgid "Custom"
+msgstr ""
+
+#: ../modules/form-widget.php:635
+msgid "Countries"
+msgstr ""
+
+#: ../modules/form-widget.php:636
+msgid "US States"
+msgstr ""
+
+#: ../modules/form-widget.php:637
+msgid "Continents"
+msgstr ""
+
+#: ../modules/form-widget.php:638
+msgid "Days"
+msgstr ""
+
+#: ../modules/form-widget.php:639
+msgid "Months"
+msgstr ""
+
+#: ../modules/form-widget.php:679
+msgid "Add options"
+msgstr ""
+
+#: ../modules/form-widget.php:681
+msgid "Options Presets"
+msgstr ""
+
+#: ../modules/form-widget.php:681
+msgid "One option per line"
+msgstr ""
+
+#: ../modules/form-widget.php:697
+msgid "Radio buttons"
+msgstr ""
+
+#: ../modules/form-widget.php:698
+msgid "Group of multiple radio buttons"
+msgstr ""
+
+#: ../modules/form-widget.php:799 ../modules/form-widget.php:969
+msgid "1 Column (Default)"
+msgstr ""
+
+#: ../modules/form-widget.php:800 ../modules/form-widget.php:970
+msgid "2 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:801 ../modules/form-widget.php:971
+msgid "3 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:802 ../modules/form-widget.php:972
+msgid "4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:803 ../modules/form-widget.php:973
+msgid "5 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:804 ../modules/form-widget.php:974
+msgid "6 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:805 ../modules/form-widget.php:975
+msgid "8 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:806 ../modules/form-widget.php:976
+msgid "10 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:807 ../modules/form-widget.php:977
+msgid "Inline"
+msgstr ""
+
+#: ../modules/form-widget.php:824 ../modules/form-widget.php:994
+msgid "Options Layout"
+msgstr ""
+
+#: ../modules/form-widget.php:845
+msgid "Checkbox Group"
+msgstr ""
+
+#: ../modules/form-widget.php:846
+msgid "Group of checkboxes"
+msgstr ""
+
+#: ../modules/form-widget.php:1015
+msgid "Select"
+msgstr ""
+
+#: ../modules/form-widget.php:1016
+msgid "Select input"
+msgstr ""
+
+#: ../modules/form-widget.php:1085 ../modules/form-widget.php:1086
+msgid "Textarea"
+msgstr ""
+
+#: ../modules/form-widget.php:1147 ../modules/form-widget.php:1169
+#, php-format
+msgid ""
+"In order to use ReCAPTCHA widget you have to %sprovide private and public "
+"keys%s"
+msgstr ""
+
+#: ../modules/form-widget.php:1195 ../modules/form-widget.php:1196
+#: ../modules/form-widget.php:1215 ../modules/form-widget.php:1272
+msgid "Date"
+msgstr ""
+
+#: ../modules/form-widget.php:1286
+msgid "Min year range"
+msgstr ""
+
+#: ../modules/form-widget.php:1286 ../modules/form-widget.php:1289
+#, php-format
+msgid "Default value is %s"
+msgstr ""
+
+#: ../modules/form-widget.php:1289
+msgid "Max year range"
+msgstr ""
+
+#: ../modules/form-widget.php:1312 ../modules/form-widget.php:1365
+msgid "Plain text"
+msgstr ""
+
+#: ../modules/form-widget.php:1313
+msgid "Simple plain text widget"
+msgstr ""
+
+#: ../modules/form-widget.php:1363
+msgid "Text Align"
+msgstr ""
+
+#: ../modules/form-widget.php:1364
+msgid "Disable formatting"
+msgstr ""
+
+#: ../modules/form-widget.php:1365 ../modules/form-widget.php:1889
+msgid "Plain text, shortcodes. Default wordpress formatting will be applied."
+msgstr ""
+
+#: ../modules/form-widget.php:1378
+msgid "Syntax Highlighter"
+msgstr ""
+
+#: ../modules/form-widget.php:1379
+msgid "Syntax highlighter"
+msgstr ""
+
+#: ../modules/form-widget.php:1397
+msgid "AS3"
+msgstr ""
+
+#: ../modules/form-widget.php:1398
+msgid "Apple Script"
+msgstr ""
+
+#: ../modules/form-widget.php:1399
+msgid "Bash"
+msgstr ""
+
+#: ../modules/form-widget.php:1400
+msgid "C#"
+msgstr ""
+
+#: ../modules/form-widget.php:1401
+msgid "Cold Fusion"
+msgstr ""
+
+#: ../modules/form-widget.php:1402
+msgid "C++"
+msgstr ""
+
+#: ../modules/form-widget.php:1403
+msgid "CSS"
+msgstr ""
+
+#: ../modules/form-widget.php:1404
+msgid "Delphi"
+msgstr ""
+
+#: ../modules/form-widget.php:1405
+msgid "Diff"
+msgstr ""
+
+#: ../modules/form-widget.php:1406
+msgid "Erlang"
+msgstr ""
+
+#: ../modules/form-widget.php:1407
+msgid "Groovy"
+msgstr ""
+
+#: ../modules/form-widget.php:1408
+msgid "Java Script"
+msgstr ""
+
+#: ../modules/form-widget.php:1409
+msgid "Java"
+msgstr ""
+
+#: ../modules/form-widget.php:1410
+msgid "JavaFX"
+msgstr ""
+
+#: ../modules/form-widget.php:1411
+msgid "Perl"
+msgstr ""
+
+#: ../modules/form-widget.php:1412
+msgid "PHP"
+msgstr ""
+
+#: ../modules/form-widget.php:1413
+msgid "Plain"
+msgstr ""
+
+#: ../modules/form-widget.php:1414
+msgid "Power Shell"
+msgstr ""
+
+#: ../modules/form-widget.php:1415
+msgid "Python"
+msgstr ""
+
+#: ../modules/form-widget.php:1416
+msgid "Ruby"
+msgstr ""
+
+#: ../modules/form-widget.php:1417
+msgid "SASS"
+msgstr ""
+
+#: ../modules/form-widget.php:1418
+msgid "Scala"
+msgstr ""
+
+#: ../modules/form-widget.php:1419
+msgid "SQL"
+msgstr ""
+
+#: ../modules/form-widget.php:1420
+msgid "Visual Basic"
+msgstr ""
+
+#: ../modules/form-widget.php:1421
+msgid "XML"
+msgstr ""
+
+#: ../modules/form-widget.php:1427
+msgid "Code type"
+msgstr ""
+
+#: ../modules/form-widget.php:1428
+msgid "Code"
+msgstr ""
+
+#: ../modules/form-widget.php:1441
+msgid "Rich text"
+msgstr ""
+
+#: ../modules/form-widget.php:1442
+msgid "Advance text editor powered by TinyMCE"
+msgstr ""
+
+#: ../modules/form-widget.php:1457
+msgid "Rich text editor has been disabled. Check your account settings."
+msgstr ""
+
+#: ../modules/form-widget.php:1459 ../modules/form-widget.php:1479
+msgid "HTML"
+msgstr ""
+
+#: ../modules/form-widget.php:1460
+msgid "Visual"
+msgstr ""
+
+#: ../modules/form-widget.php:1480
+msgid "Simple HTML widget"
+msgstr ""
+
+#: ../modules/form-widget.php:1493
+msgid "HTML code"
+msgstr ""
+
+#: ../modules/form-widget.php:1493
+msgid "HTML code, shortcodes. No code formatting."
+msgstr ""
+
+#: ../modules/form-widget.php:1506
+msgid "Heading"
+msgstr ""
+
+#: ../modules/form-widget.php:1507
+msgid "Simple heading widget"
+msgstr ""
+
+#: ../modules/form-widget.php:1547 ../modules/form-widget.php:1969
+msgid "Title"
+msgstr ""
+
+#: ../modules/form-widget.php:1547
+msgid "If you leave this field blank, post title will be used"
+msgstr ""
+
+#: ../modules/form-widget.php:1548 ../modules/form-widget.php:1888
+msgid "Type"
+msgstr ""
+
+#: ../modules/form-widget.php:1549
+msgid "ID"
+msgstr ""
+
+#: ../modules/form-widget.php:1564 ../modules/form-widget.php:1672
+msgid "Image"
+msgstr ""
+
+#: ../modules/form-widget.php:1565
+msgid "Simple Image widget"
+msgstr ""
+
+#: ../modules/form-widget.php:1665
+msgid "Align"
+msgstr ""
+
+#: ../modules/form-widget.php:1668 ../modules/form-widget.php:1674
+msgid "Choose Image"
+msgstr ""
+
+#: ../modules/form-widget.php:1684
+msgid "Image Settings"
+msgstr ""
+
+#: ../modules/form-widget.php:1688
+msgid "Image Title"
+msgstr ""
+
+#: ../modules/form-widget.php:1691
+msgid "Display title bar on hover"
+msgstr ""
+
+#: ../modules/form-widget.php:1695
+msgid "Link URL"
+msgstr ""
+
+#: ../modules/form-widget.php:1696
+msgid "Open \"Link URL\" in lightbox"
+msgstr ""
+
+#: ../modules/form-widget.php:1716
+msgid "Divider"
+msgstr ""
+
+#: ../modules/form-widget.php:1717
+msgid "Horizontal bar for dividing separate sections of the page."
+msgstr ""
+
+#: ../modules/form-widget.php:1738 ../modules/form-widget.php:1803
+msgid "Back to top"
+msgstr ""
+
+#: ../modules/form-widget.php:1739 ../modules/form-widget.php:1804
+msgid "^ top"
+msgstr ""
+
+#: ../modules/form-widget.php:1740 ../modules/form-widget.php:1805
+msgid "&uarr; top"
+msgstr ""
+
+#: ../modules/form-widget.php:1813
+msgid "Clear divider"
+msgstr ""
+
+#: ../modules/form-widget.php:1813
+msgid ""
+"Will force divider (and any content that follows) to appear under any left/"
+"right aligned object rather than next to it"
+msgstr ""
+
+#: ../modules/form-widget.php:1814
+msgid "Include back to top link"
+msgstr ""
+
+#: ../modules/form-widget.php:1817
+msgid "Back to top link alignment"
+msgstr ""
+
+#: ../modules/form-widget.php:1820
+msgid "Back to top link title"
+msgstr ""
+
+#: ../modules/form-widget.php:1821
+msgid "Custom title"
+msgstr ""
+
+#: ../modules/form-widget.php:1822
+msgid "Custom link"
+msgstr ""
+
+#: ../modules/form-widget.php:1844
+msgid "6 message box types for special notifications"
+msgstr ""
+
+#: ../modules/form-widget.php:1876
+msgid "Info"
+msgstr ""
+
+#: ../modules/form-widget.php:1877
+msgid "Warning"
+msgstr ""
+
+#: ../modules/form-widget.php:1878
+msgid "Error"
+msgstr ""
+
+#: ../modules/form-widget.php:1879
+msgid "Download"
+msgstr ""
+
+#: ../modules/form-widget.php:1880
+msgid "Important"
+msgstr ""
+
+#: ../modules/form-widget.php:1881
+msgid "Important alt"
+msgstr ""
+
+#: ../modules/form-widget.php:1907
+msgid "Style"
+msgstr ""
+
+#: ../modules/form-widget.php:1908
+msgid "Add custom styles to your page using CSS."
+msgstr ""
+
+#: ../modules/form-widget.php:1923
+msgid "Plain CSS"
+msgstr ""
+
+#: ../modules/form-widget.php:1936
+msgid "Link"
+msgstr ""
+
+#: ../modules/form-widget.php:1937
+msgid "Basic link element."
+msgstr ""
+
+#: ../modules/form-widget.php:2037
+msgid "Additional classes (row)"
+msgstr ""
+
+#: ../modules/form-widget.php:2041
+#, php-format
+msgid "Additional classes (column no. %d)"
+msgstr ""
+
+#: ../modules/form-widget.php:2059
+msgid "Column"
+msgstr ""
+
+#: ../modules/form-widget.php:2060
+msgid "Column. Place widgets inside them to create advanced layouts"
+msgstr ""
+
+#: ../modules/form-widget.php:2075
+msgid "1/2 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2076 ../modules/form-widget.php:2091
+#: ../modules/form-widget.php:2106 ../modules/form-widget.php:2121
+#: ../modules/form-widget.php:2136 ../modules/form-widget.php:2151
+#: ../modules/form-widget.php:2166 ../modules/form-widget.php:2181
+#: ../modules/form-widget.php:2196 ../modules/form-widget.php:2211
+#: ../modules/form-widget.php:2226 ../modules/form-widget.php:2241
+msgid "Columns. Place widgets inside them to create advanced layouts"
+msgstr ""
+
+#: ../modules/form-widget.php:2090
+msgid "1/3 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2105
+msgid "1/4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2120
+msgid "1/5 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2135
+msgid "1/6 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2150
+msgid "2/3 + 1/3 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2165
+msgid "1/3 + 2/3 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2180
+msgid "3/4 + 1/4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2195
+msgid "1/4 + 3/4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2210
+msgid "1/2 + 1/4 + 1/4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2225
+msgid "1/4 + 1/2 + 1/4 Columns"
+msgstr ""
+
+#: ../modules/form-widget.php:2240
+msgid "1/4 + 1/4 + 1/2 Columns"
+msgstr ""
+
+#: ../modules/post/form.php:45 ../modules/post/form.php:48
+#: ../modules/post/form.php:77
+msgid "New form"
+msgstr ""
+
+#: ../modules/post/form.php:46
+msgid "Add new form"
+msgstr ""
+
+#: ../modules/post/form.php:47
+msgid "Edit form"
+msgstr ""
+
+#: ../modules/post/form.php:49
+msgid "View form"
+msgstr ""
+
+#: ../modules/post/form.php:50
+msgid "Search forms"
+msgstr ""
+
+#: ../modules/post/form.php:51
+msgid "No forms found"
+msgstr ""
+
+#: ../modules/post/form.php:52
+msgid "No forms found in Trash"
+msgstr ""
+
+#: ../modules/post/form.php:72
+msgid "Form entries"
+msgstr ""
+
+#: ../modules/post/form.php:73
+msgid "Form entry"
+msgstr ""
+
+#: ../modules/post/form.php:74
+msgid "New form entry"
+msgstr ""
+
+#: ../modules/post/form.php:75
+msgid "Add new form entry"
+msgstr ""
+
+#: ../modules/post/form.php:76 ../modules/post/form.php:78
+msgid "View form entry"
+msgstr ""
+
+#: ../modules/post/form.php:79
+msgid "Search form entries"
+msgstr ""
+
+#: ../modules/post/form.php:80
+msgid "No form entries found"
+msgstr ""
+
+#: ../modules/post/form.php:81
+msgid "No form entries found in Trash"
+msgstr ""
+
+#: ../modules/post/form.php:82
+msgid "Entries"
+msgstr ""
+
+#: ../modules/post/form.php:158 ../modules/post/form.php:195
+msgid "View entries from this form"
+msgstr ""
+
+#: ../modules/post/form.php:168
+msgid "Download this entry (CSV)"
+msgstr ""
+
+#: ../modules/post/form.php:215
+msgid "Download entries from this form (CSV)"
+msgstr ""

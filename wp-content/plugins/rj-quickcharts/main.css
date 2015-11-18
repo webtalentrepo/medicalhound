@@ -1,0 +1,119 @@
+.cf:before,.cf:after {content: " ";display: table;}
+.cf:after {clear: both;}
+.cf {*zoom: 1;}
+
+.rjqc-area h1 {
+    padding: 0 10px;
+}
+
+#save-rjqc label {
+    display: block;
+    width: 185px;
+    float: left;
+}
+
+#save-rjqc {
+    width: 90%;
+}
+
+#save-rjqc label#chart-type, #save-rjqc label#chart-legend {
+    width: 100px;
+}
+
+.rjqc-button {
+    background: #999;
+    padding: 10px;
+    float: left;
+    cursor: pointer;
+}
+
+#screenshot {
+    float: right;
+    margin-top: -3px;
+}
+
+.clear-handsontable-x {
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+.insert-chart-to-post {
+    margin-bottom: 3px!important;
+    cursor: pointer;
+}
+
+#rjqc-loading {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 999;
+    text-align: center;
+    line-height: 100%;
+    background: rgb(255,255,255);
+    background: rgba(255,255,255,0.6);
+}
+#rjqc-loading h1 {
+    position: relative;
+    top: 100px;
+}
+
+.rjqc-admin .row-actions a {
+    cursor: pointer;
+}
+
+.rjqc-admin .new-row {
+    background: #FFFF7E;
+}
+
+.js .rjqc .postbox .hndle {
+    cursor: default;
+}
+
+.rjqc-area .hndle {
+    padding: 8px;
+    font-size: 16px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: bold;
+}
+
+.rjqc-area .postbox {
+    margin:20px 20px 0 0;
+}
+
+.save-message {
+    float: left;
+    padding: 3px 0 0 10px;
+}
+
+.save-rjqc label {
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+
+.save-rjqc label > span {
+    font-weight: bold;
+}
+
+ .js .rjqc-area .postbox .hndle {
+    cursor: default;
+}
+
+#change-chart-colors {
+    font-weight: bold;
+}
+
+#change-chart-colors:hover {
+    text-decoration: underline;
+    color: gray;
+    cursor: pointer;
+}
+
+#change-chart-colors-area {
+    display: none;
+}
